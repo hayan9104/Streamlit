@@ -1,0 +1,2425 @@
+age,sex,cp,trestbps,chol,fbs,thalach,exang,oldpeak,slope,ca,Disease,restecg
+63,1,3,145,233,1,150,0,2.3,0,0,Coronary Artery Disease (CAD),
+37,1,2,130,250,0,187,0,3.5,0,0,Coronary Artery Disease (CAD),
+41,0,1,130,204,0,172,0,1.4,2,0,Coronary Artery Disease (CAD),
+56,1,1,120,236,0,178,0,0.8,2,0,Coronary Artery Disease (CAD),
+57,0,0,120,354,0,163,1,0.6,2,0,Coronary Artery Disease (CAD),
+57,1,0,140,192,0,148,0,0.4,1,0,Coronary Artery Disease (CAD),
+56,0,1,140,294,0,153,0,1.3,1,0,Coronary Artery Disease (CAD),
+44,1,1,120,263,0,173,0,0,2,0,Coronary Artery Disease (CAD),
+52,1,2,172,199,1,162,0,0.5,2,0,Coronary Artery Disease (CAD),
+57,1,2,150,168,0,174,0,1.6,2,0,Coronary Artery Disease (CAD),
+54,1,0,140,239,0,160,0,1.2,2,0,Coronary Artery Disease (CAD),
+48,0,2,130,275,0,139,0,0.2,2,0,Coronary Artery Disease (CAD),
+49,1,1,130,266,0,171,0,0.6,2,0,Coronary Artery Disease (CAD),
+64,1,3,110,211,0,144,1,1.8,1,0,Coronary Artery Disease (CAD),
+58,0,3,150,283,1,162,0,1,2,0,Coronary Artery Disease (CAD),
+50,0,2,120,219,0,158,0,1.6,1,0,Coronary Artery Disease (CAD),
+58,0,2,120,340,0,172,0,0,2,0,Coronary Artery Disease (CAD),
+66,0,3,150,226,0,114,0,2.6,0,0,Coronary Artery Disease (CAD),
+43,1,0,150,247,0,171,0,1.5,2,0,Coronary Artery Disease (CAD),
+69,0,3,140,239,0,151,0,1.8,2,2,Coronary Artery Disease (CAD),
+59,1,0,135,234,0,161,0,0.5,1,0,Coronary Artery Disease (CAD),
+44,1,2,130,233,0,179,1,0.4,2,0,Coronary Artery Disease (CAD),
+42,1,0,140,226,0,178,0,0,2,0,Coronary Artery Disease (CAD),
+61,1,2,150,243,1,137,1,1,1,0,Coronary Artery Disease (CAD),
+40,1,3,140,199,0,178,1,1.4,2,0,Coronary Artery Disease (CAD),
+71,0,1,160,302,0,162,0,0.4,2,2,Coronary Artery Disease (CAD),
+59,1,2,150,212,1,157,0,1.6,2,0,Coronary Artery Disease (CAD),
+51,1,2,110,175,0,123,0,0.6,2,0,Coronary Artery Disease (CAD),
+65,0,2,140,417,1,157,0,0.8,2,1,Coronary Artery Disease (CAD),
+53,1,2,130,197,1,152,0,1.2,0,0,Coronary Artery Disease (CAD),
+41,0,1,105,198,0,168,0,0,2,1,Coronary Artery Disease (CAD),
+65,1,0,120,177,0,140,0,0.4,2,0,Coronary Artery Disease (CAD),
+44,1,1,130,219,0,188,0,0,2,0,Coronary Artery Disease (CAD),
+54,1,2,125,273,0,152,0,0.5,0,1,Coronary Artery Disease (CAD),
+51,1,3,125,213,0,125,1,1.4,2,1,Coronary Artery Disease (CAD),
+46,0,2,142,177,0,160,1,1.4,0,0,Coronary Artery Disease (CAD),
+54,0,2,135,304,1,170,0,0,2,0,Coronary Artery Disease (CAD),
+54,1,2,150,232,0,165,0,1.6,2,0,Coronary Artery Disease (CAD),
+65,0,2,155,269,0,148,0,0.8,2,0,Coronary Artery Disease (CAD),
+65,0,2,160,360,0,151,0,0.8,2,0,Coronary Artery Disease (CAD),
+51,0,2,140,308,0,142,0,1.5,2,1,Coronary Artery Disease (CAD),
+48,1,1,130,245,0,180,0,0.2,1,0,Coronary Artery Disease (CAD),
+45,1,0,104,208,0,148,1,3,1,0,Coronary Artery Disease (CAD),
+53,0,0,130,264,0,143,0,0.4,1,0,Coronary Artery Disease (CAD),
+39,1,2,140,321,0,182,0,0,2,0,Coronary Artery Disease (CAD),
+52,1,1,120,325,0,172,0,0.2,2,0,Coronary Artery Disease (CAD),
+44,1,2,140,235,0,180,0,0,2,0,Coronary Artery Disease (CAD),
+47,1,2,138,257,0,156,0,0,2,0,Coronary Artery Disease (CAD),
+53,0,2,128,216,0,115,0,0,2,0,Coronary Artery Disease (CAD),
+53,0,0,138,234,0,160,0,0,2,0,Coronary Artery Disease (CAD),
+51,0,2,130,256,0,149,0,0.5,2,0,Coronary Artery Disease (CAD),
+66,1,0,120,302,0,151,0,0.4,1,0,Coronary Artery Disease (CAD),
+62,1,2,130,231,0,146,0,1.8,1,3,Coronary Artery Disease (CAD),
+44,0,2,108,141,0,175,0,0.6,1,0,Coronary Artery Disease (CAD),
+63,0,2,135,252,0,172,0,0,2,0,Coronary Artery Disease (CAD),
+52,1,1,134,201,0,158,0,0.8,2,1,Coronary Artery Disease (CAD),
+48,1,0,122,222,0,186,0,0,2,0,Coronary Artery Disease (CAD),
+45,1,0,115,260,0,185,0,0,2,0,Coronary Artery Disease (CAD),
+34,1,3,118,182,0,174,0,0,2,0,Coronary Artery Disease (CAD),
+57,0,0,128,303,0,159,0,0,2,1,Coronary Artery Disease (CAD),
+71,0,2,110,265,1,130,0,0,2,1,Coronary Artery Disease (CAD),
+54,1,1,108,309,0,156,0,0,2,0,Coronary Artery Disease (CAD),
+52,1,3,118,186,0,190,0,0,1,0,Coronary Artery Disease (CAD),
+41,1,1,135,203,0,132,0,0,1,0,Coronary Artery Disease (CAD),
+58,1,2,140,211,1,165,0,0,2,0,Coronary Artery Disease (CAD),
+35,0,0,138,183,0,182,0,1.4,2,0,Coronary Artery Disease (CAD),
+51,1,2,100,222,0,143,1,1.2,1,0,Coronary Artery Disease (CAD),
+45,0,1,130,234,0,175,0,0.6,1,0,Coronary Artery Disease (CAD),
+44,1,1,120,220,0,170,0,0,2,0,Coronary Artery Disease (CAD),
+62,0,0,124,209,0,163,0,0,2,0,Coronary Artery Disease (CAD),
+54,1,2,120,258,0,147,0,0.4,1,0,Coronary Artery Disease (CAD),
+51,1,2,94,227,0,154,1,0,2,1,Coronary Artery Disease (CAD),
+29,1,1,130,204,0,202,0,0,2,0,Coronary Artery Disease (CAD),
+51,1,0,140,261,0,186,1,0,2,0,Coronary Artery Disease (CAD),
+43,0,2,122,213,0,165,0,0.2,1,0,Coronary Artery Disease (CAD),
+55,0,1,135,250,0,161,0,1.4,1,0,Coronary Artery Disease (CAD),
+51,1,2,125,245,1,166,0,2.4,1,0,Coronary Artery Disease (CAD),
+59,1,1,140,221,0,164,1,0,2,0,Coronary Artery Disease (CAD),
+52,1,1,128,205,1,184,0,0,2,0,Coronary Artery Disease (CAD),
+58,1,2,105,240,0,154,1,0.6,1,0,Coronary Artery Disease (CAD),
+41,1,2,112,250,0,179,0,0,2,0,Coronary Artery Disease (CAD),
+45,1,1,128,308,0,170,0,0,2,0,Coronary Artery Disease (CAD),
+60,0,2,102,318,0,160,0,0,2,1,Coronary Artery Disease (CAD),
+52,1,3,152,298,1,178,0,1.2,1,0,Coronary Artery Disease (CAD),
+42,0,0,102,265,0,122,0,0.6,1,0,Coronary Artery Disease (CAD),
+67,0,2,115,564,0,160,0,1.6,1,0,Coronary Artery Disease (CAD),
+68,1,2,118,277,0,151,0,1,2,1,Coronary Artery Disease (CAD),
+46,1,1,101,197,1,156,0,0,2,0,Coronary Artery Disease (CAD),
+54,0,2,110,214,0,158,0,1.6,1,0,Coronary Artery Disease (CAD),
+58,0,0,100,248,0,122,0,1,1,0,Coronary Artery Disease (CAD),
+48,1,2,124,255,1,175,0,0,2,2,Coronary Artery Disease (CAD),
+57,1,0,132,207,0,168,1,0,2,0,Coronary Artery Disease (CAD),
+52,1,2,138,223,0,169,0,0,2,4,Coronary Artery Disease (CAD),
+54,0,1,132,288,1,159,1,0,2,1,Coronary Artery Disease (CAD),
+45,0,1,112,160,0,138,0,0,1,0,Coronary Artery Disease (CAD),
+53,1,0,142,226,0,111,1,0,2,0,Coronary Artery Disease (CAD),
+62,0,0,140,394,0,157,0,1.2,1,0,Coronary Artery Disease (CAD),
+52,1,0,108,233,1,147,0,0.1,2,3,Coronary Artery Disease (CAD),
+43,1,2,130,315,0,162,0,1.9,2,1,Coronary Artery Disease (CAD),
+53,1,2,130,246,1,173,0,0,2,3,Coronary Artery Disease (CAD),
+42,1,3,148,244,0,178,0,0.8,2,2,Coronary Artery Disease (CAD),
+59,1,3,178,270,0,145,0,4.2,0,0,Coronary Artery Disease (CAD),
+63,0,1,140,195,0,179,0,0,2,2,Coronary Artery Disease (CAD),
+42,1,2,120,240,1,194,0,0.8,0,0,Coronary Artery Disease (CAD),
+50,1,2,129,196,0,163,0,0,2,0,Coronary Artery Disease (CAD),
+68,0,2,120,211,0,115,0,1.5,1,0,Coronary Artery Disease (CAD),
+69,1,3,160,234,1,131,0,0.1,1,1,Coronary Artery Disease (CAD),
+45,0,0,138,236,0,152,1,0.2,1,0,Coronary Artery Disease (CAD),
+50,0,1,120,244,0,162,0,1.1,2,0,Coronary Artery Disease (CAD),
+50,0,0,110,254,0,159,0,0,2,0,Coronary Artery Disease (CAD),
+64,0,0,180,325,0,154,1,0,2,0,Coronary Artery Disease (CAD),
+57,1,2,150,126,1,173,0,0.2,2,1,Coronary Artery Disease (CAD),
+64,0,2,140,313,0,133,0,0.2,2,0,Coronary Artery Disease (CAD),
+43,1,0,110,211,0,161,0,0,2,0,Coronary Artery Disease (CAD),
+55,1,1,130,262,0,155,0,0,2,0,Coronary Artery Disease (CAD),
+37,0,2,120,215,0,170,0,0,2,0,Coronary Artery Disease (CAD),
+41,1,2,130,214,0,168,0,2,1,0,Coronary Artery Disease (CAD),
+56,1,3,120,193,0,162,0,1.9,1,0,Coronary Artery Disease (CAD),
+46,0,1,105,204,0,172,0,0,2,0,Coronary Artery Disease (CAD),
+46,0,0,138,243,0,152,1,0,1,0,Coronary Artery Disease (CAD),
+64,0,0,130,303,0,122,0,2,1,2,Coronary Artery Disease (CAD),
+59,1,0,138,271,0,182,0,0,2,0,Coronary Artery Disease (CAD),
+41,0,2,112,268,0,172,1,0,2,0,Coronary Artery Disease (CAD),
+54,0,2,108,267,0,167,0,0,2,0,Coronary Artery Disease (CAD),
+39,0,2,94,199,0,179,0,0,2,0,Coronary Artery Disease (CAD),
+34,0,1,118,210,0,192,0,0.7,2,0,Coronary Artery Disease (CAD),
+47,1,0,112,204,0,143,0,0.1,2,0,Coronary Artery Disease (CAD),
+67,0,2,152,277,0,172,0,0,2,1,Coronary Artery Disease (CAD),
+52,0,2,136,196,0,169,0,0.1,1,0,Coronary Artery Disease (CAD),
+74,0,1,120,269,0,121,1,0.2,2,1,Coronary Artery Disease (CAD),
+54,0,2,160,201,0,163,0,0,2,1,Coronary Artery Disease (CAD),
+49,0,1,134,271,0,162,0,0,1,0,Coronary Artery Disease (CAD),
+42,1,1,120,295,0,162,0,0,2,0,Coronary Artery Disease (CAD),
+41,1,1,110,235,0,153,0,0,2,0,Coronary Artery Disease (CAD),
+41,0,1,126,306,0,163,0,0,2,0,Coronary Artery Disease (CAD),
+49,0,0,130,269,0,163,0,0,2,0,Coronary Artery Disease (CAD),
+60,0,2,120,178,1,96,0,0,2,0,Coronary Artery Disease (CAD),
+62,1,1,128,208,1,140,0,0,2,0,Coronary Artery Disease (CAD),
+57,1,0,110,201,0,126,1,1.5,1,0,Coronary Artery Disease (CAD),
+64,1,0,128,263,0,105,1,0.2,1,1,Coronary Artery Disease (CAD),
+51,0,2,120,295,0,157,0,0.6,2,0,Coronary Artery Disease (CAD),
+43,1,0,115,303,0,181,0,1.2,1,0,Coronary Artery Disease (CAD),
+42,0,2,120,209,0,173,0,0,1,0,Coronary Artery Disease (CAD),
+67,0,0,106,223,0,142,0,0.3,2,2,Coronary Artery Disease (CAD),
+76,0,2,140,197,0,116,0,1.1,1,0,Coronary Artery Disease (CAD),
+70,1,1,156,245,0,143,0,0,2,0,Coronary Artery Disease (CAD),
+44,0,2,118,242,0,149,0,0.3,1,1,Coronary Artery Disease (CAD),
+60,0,3,150,240,0,171,0,0.9,2,0,Coronary Artery Disease (CAD),
+44,1,2,120,226,0,169,0,0,2,0,Coronary Artery Disease (CAD),
+42,1,2,130,180,0,150,0,0,2,0,Coronary Artery Disease (CAD),
+66,1,0,160,228,0,138,0,2.3,2,0,Coronary Artery Disease (CAD),
+71,0,0,112,149,0,125,0,1.6,1,0,Coronary Artery Disease (CAD),
+64,1,3,170,227,0,155,0,0.6,1,0,Coronary Artery Disease (CAD),
+66,0,2,146,278,0,152,0,0,1,1,Coronary Artery Disease (CAD),
+39,0,2,138,220,0,152,0,0,1,0,Coronary Artery Disease (CAD),
+58,0,0,130,197,0,131,0,0.6,1,0,Coronary Artery Disease (CAD),
+47,1,2,130,253,0,179,0,0,2,0,Coronary Artery Disease (CAD),
+35,1,1,122,192,0,174,0,0,2,0,Coronary Artery Disease (CAD),
+58,1,1,125,220,0,144,0,0.4,1,4,Coronary Artery Disease (CAD),
+56,1,1,130,221,0,163,0,0,2,0,Coronary Artery Disease (CAD),
+56,1,1,120,240,0,169,0,0,0,0,Coronary Artery Disease (CAD),
+55,0,1,132,342,0,166,0,1.2,2,0,Coronary Artery Disease (CAD),
+41,1,1,120,157,0,182,0,0,2,0,Coronary Artery Disease (CAD),
+38,1,2,138,175,0,173,0,0,2,4,Coronary Artery Disease (CAD),
+38,1,2,138,175,0,173,0,0,2,4,Coronary Artery Disease (CAD),
+67,1,0,160,286,0,108,1,1.5,1,3,Coronary Artery Disease (CAD),
+67,1,0,120,229,0,129,1,2.6,1,2,Coronary Artery Disease (CAD),
+62,0,0,140,268,0,160,0,3.6,0,2,Coronary Artery Disease (CAD),
+63,1,0,130,254,0,147,0,1.4,1,1,Coronary Artery Disease (CAD),
+53,1,0,140,203,1,155,1,3.1,0,0,Coronary Artery Disease (CAD),
+56,1,2,130,256,1,142,1,0.6,1,1,Coronary Artery Disease (CAD),
+48,1,1,110,229,0,168,0,1,0,0,Coronary Artery Disease (CAD),
+58,1,1,120,284,0,160,0,1.8,1,0,Coronary Artery Disease (CAD),
+58,1,2,132,224,0,173,0,3.2,2,2,Coronary Artery Disease (CAD),
+60,1,0,130,206,0,132,1,2.4,1,2,Coronary Artery Disease (CAD),
+40,1,0,110,167,0,114,1,2,1,0,Coronary Artery Disease (CAD),
+60,1,0,117,230,1,160,1,1.4,2,2,Coronary Artery Disease (CAD),
+64,1,2,140,335,0,158,0,0,2,0,Coronary Artery Disease (CAD),
+43,1,0,120,177,0,120,1,2.5,1,0,Coronary Artery Disease (CAD),
+57,1,0,150,276,0,112,1,0.6,1,1,Coronary Artery Disease (CAD),
+55,1,0,132,353,0,132,1,1.2,1,1,Coronary Artery Disease (CAD),
+65,0,0,150,225,0,114,0,1,1,3,Coronary Artery Disease (CAD),
+61,0,0,130,330,0,169,0,0,2,0,Coronary Artery Disease (CAD),
+58,1,2,112,230,0,165,0,2.5,1,1,Coronary Artery Disease (CAD),
+50,1,0,150,243,0,128,0,2.6,1,0,Coronary Artery Disease (CAD),
+44,1,0,112,290,0,153,0,0,2,1,Coronary Artery Disease (CAD),
+60,1,0,130,253,0,144,1,1.4,2,1,Coronary Artery Disease (CAD),
+54,1,0,124,266,0,109,1,2.2,1,1,Coronary Artery Disease (CAD),
+50,1,2,140,233,0,163,0,0.6,1,1,Coronary Artery Disease (CAD),
+41,1,0,110,172,0,158,0,0,2,0,Coronary Artery Disease (CAD),
+51,0,0,130,305,0,142,1,1.2,1,0,Coronary Artery Disease (CAD),
+58,1,0,128,216,0,131,1,2.2,1,3,Coronary Artery Disease (CAD),
+54,1,0,120,188,0,113,0,1.4,1,1,Coronary Artery Disease (CAD),
+60,1,0,145,282,0,142,1,2.8,1,2,Coronary Artery Disease (CAD),
+60,1,2,140,185,0,155,0,3,1,0,Coronary Artery Disease (CAD),
+59,1,0,170,326,0,140,1,3.4,0,0,Coronary Artery Disease (CAD),
+46,1,2,150,231,0,147,0,3.6,1,0,Coronary Artery Disease (CAD),
+67,1,0,125,254,1,163,0,0.2,1,2,Coronary Artery Disease (CAD),
+62,1,0,120,267,0,99,1,1.8,1,2,Coronary Artery Disease (CAD),
+65,1,0,110,248,0,158,0,0.6,2,2,Coronary Artery Disease (CAD),
+44,1,0,110,197,0,177,0,0,2,1,Coronary Artery Disease (CAD),
+60,1,0,125,258,0,141,1,2.8,1,1,Coronary Artery Disease (CAD),
+58,1,0,150,270,0,111,1,0.8,2,0,Coronary Artery Disease (CAD),
+68,1,2,180,274,1,150,1,1.6,1,0,Coronary Artery Disease (CAD),
+62,0,0,160,164,0,145,0,6.2,0,3,Coronary Artery Disease (CAD),
+52,1,0,128,255,0,161,1,0,2,1,Coronary Artery Disease (CAD),
+59,1,0,110,239,0,142,1,1.2,1,1,Coronary Artery Disease (CAD),
+60,0,0,150,258,0,157,0,2.6,1,2,Coronary Artery Disease (CAD),
+49,1,2,120,188,0,139,0,2,1,3,Coronary Artery Disease (CAD),
+59,1,0,140,177,0,162,1,0,2,1,Coronary Artery Disease (CAD),
+57,1,2,128,229,0,150,0,0.4,1,1,Coronary Artery Disease (CAD),
+61,1,0,120,260,0,140,1,3.6,1,1,Coronary Artery Disease (CAD),
+39,1,0,118,219,0,140,0,1.2,1,0,Coronary Artery Disease (CAD),
+61,0,0,145,307,0,146,1,1,1,0,Coronary Artery Disease (CAD),
+56,1,0,125,249,1,144,1,1.2,1,1,Coronary Artery Disease (CAD),
+43,0,0,132,341,1,136,1,3,1,0,Coronary Artery Disease (CAD),
+62,0,2,130,263,0,97,0,1.2,1,1,Coronary Artery Disease (CAD),
+63,1,0,130,330,1,132,1,1.8,2,3,Coronary Artery Disease (CAD),
+65,1,0,135,254,0,127,0,2.8,1,1,Coronary Artery Disease (CAD),
+48,1,0,130,256,1,150,1,0,2,2,Coronary Artery Disease (CAD),
+63,0,0,150,407,0,154,0,4,1,3,Coronary Artery Disease (CAD),
+55,1,0,140,217,0,111,1,5.6,0,0,Coronary Artery Disease (CAD),
+65,1,3,138,282,1,174,0,1.4,1,1,Coronary Artery Disease (CAD),
+56,0,0,200,288,1,133,1,4,0,2,Coronary Artery Disease (CAD),
+54,1,0,110,239,0,126,1,2.8,1,1,Coronary Artery Disease (CAD),
+70,1,0,145,174,0,125,1,2.6,0,0,Coronary Artery Disease (CAD),
+62,1,1,120,281,0,103,0,1.4,1,1,Coronary Artery Disease (CAD),
+35,1,0,120,198,0,130,1,1.6,1,0,Coronary Artery Disease (CAD),
+59,1,3,170,288,0,159,0,0.2,1,0,Coronary Artery Disease (CAD),
+64,1,2,125,309,0,131,1,1.8,1,0,Coronary Artery Disease (CAD),
+47,1,2,108,243,0,152,0,0,2,0,Coronary Artery Disease (CAD),
+57,1,0,165,289,1,124,0,1,1,3,Coronary Artery Disease (CAD),
+55,1,0,160,289,0,145,1,0.8,1,1,Coronary Artery Disease (CAD),
+64,1,0,120,246,0,96,1,2.2,0,1,Coronary Artery Disease (CAD),
+70,1,0,130,322,0,109,0,2.4,1,3,Coronary Artery Disease (CAD),
+51,1,0,140,299,0,173,1,1.6,2,0,Coronary Artery Disease (CAD),
+58,1,0,125,300,0,171,0,0,2,2,Coronary Artery Disease (CAD),
+60,1,0,140,293,0,170,0,1.2,1,2,Coronary Artery Disease (CAD),
+77,1,0,125,304,0,162,1,0,2,3,Coronary Artery Disease (CAD),
+35,1,0,126,282,0,156,1,0,2,0,Coronary Artery Disease (CAD),
+70,1,2,160,269,0,112,1,2.9,1,1,Coronary Artery Disease (CAD),
+59,0,0,174,249,0,143,1,0,1,0,Coronary Artery Disease (CAD),
+64,1,0,145,212,0,132,0,2,1,2,Coronary Artery Disease (CAD),
+57,1,0,152,274,0,88,1,1.2,1,1,Coronary Artery Disease (CAD),
+56,1,0,132,184,0,105,1,2.1,1,1,Coronary Artery Disease (CAD),
+48,1,0,124,274,0,166,0,0.5,1,0,Coronary Artery Disease (CAD),
+56,0,0,134,409,0,150,1,1.9,1,2,Coronary Artery Disease (CAD),
+66,1,1,160,246,0,120,1,0,1,3,Coronary Artery Disease (CAD),
+54,1,1,192,283,0,195,0,0,2,1,Coronary Artery Disease (CAD),
+69,1,2,140,254,0,146,0,2,1,3,Coronary Artery Disease (CAD),
+51,1,0,140,298,0,122,1,4.2,1,3,Coronary Artery Disease (CAD),
+43,1,0,132,247,1,143,1,0.1,1,4,Coronary Artery Disease (CAD),
+62,0,0,138,294,1,106,0,1.9,1,3,Coronary Artery Disease (CAD),
+67,1,0,100,299,0,125,1,0.9,1,2,Coronary Artery Disease (CAD),
+59,1,3,160,273,0,125,0,0,2,0,Coronary Artery Disease (CAD),
+45,1,0,142,309,0,147,1,0,1,3,Coronary Artery Disease (CAD),
+58,1,0,128,259,0,130,1,3,1,2,Coronary Artery Disease (CAD),
+50,1,0,144,200,0,126,1,0.9,1,0,Coronary Artery Disease (CAD),
+62,0,0,150,244,0,154,1,1.4,1,0,Coronary Artery Disease (CAD),
+38,1,3,120,231,0,182,1,3.8,1,0,Coronary Artery Disease (CAD),
+66,0,0,178,228,1,165,1,1,1,2,Coronary Artery Disease (CAD),
+52,1,0,112,230,0,160,0,0,2,1,Coronary Artery Disease (CAD),
+53,1,0,123,282,0,95,1,2,1,2,Coronary Artery Disease (CAD),
+63,0,0,108,269,0,169,1,1.8,1,2,Coronary Artery Disease (CAD),
+54,1,0,110,206,0,108,1,0,1,1,Coronary Artery Disease (CAD),
+66,1,0,112,212,0,132,1,0.1,2,1,Coronary Artery Disease (CAD),
+55,0,0,180,327,0,117,1,3.4,1,0,Coronary Artery Disease (CAD),
+49,1,2,118,149,0,126,0,0.8,2,3,Coronary Artery Disease (CAD),
+54,1,0,122,286,0,116,1,3.2,1,2,Coronary Artery Disease (CAD),
+56,1,0,130,283,1,103,1,1.6,0,0,Coronary Artery Disease (CAD),
+46,1,0,120,249,0,144,0,0.8,2,0,Coronary Artery Disease (CAD),
+61,1,3,134,234,0,145,0,2.6,1,2,Coronary Artery Disease (CAD),
+67,1,0,120,237,0,71,0,1,1,0,Coronary Artery Disease (CAD),
+58,1,0,100,234,0,156,0,0.1,2,1,Coronary Artery Disease (CAD),
+47,1,0,110,275,0,118,1,1,1,1,Coronary Artery Disease (CAD),
+52,1,0,125,212,0,168,0,1,2,2,Coronary Artery Disease (CAD),
+58,1,0,146,218,0,105,0,2,1,1,Coronary Artery Disease (CAD),
+57,1,1,124,261,0,141,0,0.3,2,0,Coronary Artery Disease (CAD),
+58,0,1,136,319,1,152,0,0,2,2,Coronary Artery Disease (CAD),
+61,1,0,138,166,0,125,1,3.6,1,1,Coronary Artery Disease (CAD),
+42,1,0,136,315,0,125,1,1.8,1,0,Coronary Artery Disease (CAD),
+52,1,0,128,204,1,156,1,1,1,0,Coronary Artery Disease (CAD),
+59,1,2,126,218,1,134,0,2.2,1,1,Coronary Artery Disease (CAD),
+40,1,0,152,223,0,181,0,0,2,0,Coronary Artery Disease (CAD),
+61,1,0,140,207,0,138,1,1.9,2,1,Coronary Artery Disease (CAD),
+46,1,0,140,311,0,120,1,1.8,1,2,Coronary Artery Disease (CAD),
+59,1,3,134,204,0,162,0,0.8,2,2,Coronary Artery Disease (CAD),
+57,1,1,154,232,0,164,0,0,2,1,Coronary Artery Disease (CAD),
+57,1,0,110,335,0,143,1,3,1,1,Coronary Artery Disease (CAD),
+55,0,0,128,205,0,130,1,2,1,1,Coronary Artery Disease (CAD),
+61,1,0,148,203,0,161,0,0,2,1,Coronary Artery Disease (CAD),
+58,1,0,114,318,0,140,0,4.4,0,3,Coronary Artery Disease (CAD),
+58,0,0,170,225,1,146,1,2.8,1,2,Coronary Artery Disease (CAD),
+67,1,2,152,212,0,150,0,0.8,1,0,Coronary Artery Disease (CAD),
+44,1,0,120,169,0,144,1,2.8,0,0,Coronary Artery Disease (CAD),
+63,1,0,140,187,0,144,1,4,2,2,Coronary Artery Disease (CAD),
+63,0,0,124,197,0,136,1,0,1,0,Coronary Artery Disease (CAD),
+59,1,0,164,176,1,90,0,1,1,2,Coronary Artery Disease (CAD),
+57,0,0,140,241,0,123,1,0.2,1,0,Coronary Artery Disease (CAD),
+45,1,3,110,264,0,132,0,1.2,1,0,Coronary Artery Disease (CAD),
+68,1,0,144,193,1,141,0,3.4,1,2,Coronary Artery Disease (CAD),
+57,1,0,130,131,0,115,1,1.2,1,1,Coronary Artery Disease (CAD),
+57,0,1,130,236,0,174,0,0,1,1,Coronary Artery Disease (CAD),
+63,1,,,,,150,,2.3,,,Heart Arrhythmias,0
+37,1,,,,,187,,3.5,,,Heart Arrhythmias,1
+41,0,,,,,172,,1.4,,,Heart Arrhythmias,0
+56,1,,,,,178,,0.8,,,Heart Arrhythmias,1
+57,0,,,,,163,,0.6,,,Heart Arrhythmias,1
+57,1,,,,,148,,0.4,,,Heart Arrhythmias,1
+56,0,,,,,153,,1.3,,,Heart Arrhythmias,0
+44,1,,,,,173,,0,,,Heart Arrhythmias,1
+52,1,,,,,162,,0.5,,,Heart Arrhythmias,1
+57,1,,,,,174,,1.6,,,Heart Arrhythmias,1
+54,1,,,,,160,,1.2,,,Heart Arrhythmias,1
+48,0,,,,,139,,0.2,,,Heart Arrhythmias,1
+49,1,,,,,171,,0.6,,,Heart Arrhythmias,1
+64,1,,,,,144,,1.8,,,Heart Arrhythmias,0
+58,0,,,,,162,,1,,,Heart Arrhythmias,0
+50,0,,,,,158,,1.6,,,Heart Arrhythmias,1
+58,0,,,,,172,,0,,,Heart Arrhythmias,1
+66,0,,,,,114,,2.6,,,Heart Arrhythmias,1
+43,1,,,,,171,,1.5,,,Heart Arrhythmias,1
+69,0,,,,,151,,1.8,,,Heart Arrhythmias,1
+59,1,,,,,161,,0.5,,,Heart Arrhythmias,1
+44,1,,,,,179,,0.4,,,Heart Arrhythmias,1
+42,1,,,,,178,,0,,,Heart Arrhythmias,1
+61,1,,,,,137,,1,,,Heart Arrhythmias,1
+40,1,,,,,178,,1.4,,,Heart Arrhythmias,1
+71,0,,,,,162,,0.4,,,Heart Arrhythmias,1
+59,1,,,,,157,,1.6,,,Heart Arrhythmias,1
+51,1,,,,,123,,0.6,,,Heart Arrhythmias,1
+65,0,,,,,157,,0.8,,,Heart Arrhythmias,0
+53,1,,,,,152,,1.2,,,Heart Arrhythmias,0
+41,0,,,,,168,,0,,,Heart Arrhythmias,1
+65,1,,,,,140,,0.4,,,Heart Arrhythmias,1
+44,1,,,,,188,,0,,,Heart Arrhythmias,0
+54,1,,,,,152,,0.5,,,Heart Arrhythmias,0
+51,1,,,,,125,,1.4,,,Heart Arrhythmias,0
+46,0,,,,,160,,1.4,,,Heart Arrhythmias,0
+54,0,,,,,170,,0,,,Heart Arrhythmias,1
+54,1,,,,,165,,1.6,,,Heart Arrhythmias,0
+65,0,,,,,148,,0.8,,,Heart Arrhythmias,1
+65,0,,,,,151,,0.8,,,Heart Arrhythmias,0
+51,0,,,,,142,,1.5,,,Heart Arrhythmias,0
+48,1,,,,,180,,0.2,,,Heart Arrhythmias,0
+45,1,,,,,148,,3,,,Heart Arrhythmias,0
+53,0,,,,,143,,0.4,,,Heart Arrhythmias,0
+39,1,,,,,182,,0,,,Heart Arrhythmias,0
+52,1,,,,,172,,0.2,,,Heart Arrhythmias,1
+44,1,,,,,180,,0,,,Heart Arrhythmias,0
+47,1,,,,,156,,0,,,Heart Arrhythmias,0
+53,0,,,,,115,,0,,,Heart Arrhythmias,0
+53,0,,,,,160,,0,,,Heart Arrhythmias,0
+51,0,,,,,149,,0.5,,,Heart Arrhythmias,0
+66,1,,,,,151,,0.4,,,Heart Arrhythmias,0
+62,1,,,,,146,,1.8,,,Heart Arrhythmias,1
+44,0,,,,,175,,0.6,,,Heart Arrhythmias,1
+63,0,,,,,172,,0,,,Heart Arrhythmias,0
+52,1,,,,,158,,0.8,,,Heart Arrhythmias,1
+48,1,,,,,186,,0,,,Heart Arrhythmias,0
+45,1,,,,,185,,0,,,Heart Arrhythmias,0
+34,1,,,,,174,,0,,,Heart Arrhythmias,0
+57,0,,,,,159,,0,,,Heart Arrhythmias,0
+71,0,,,,,130,,0,,,Heart Arrhythmias,0
+54,1,,,,,156,,0,,,Heart Arrhythmias,1
+52,1,,,,,190,,0,,,Heart Arrhythmias,0
+41,1,,,,,132,,0,,,Heart Arrhythmias,1
+58,1,,,,,165,,0,,,Heart Arrhythmias,0
+35,0,,,,,182,,1.4,,,Heart Arrhythmias,1
+51,1,,,,,143,,1.2,,,Heart Arrhythmias,1
+45,0,,,,,175,,0.6,,,Heart Arrhythmias,0
+44,1,,,,,170,,0,,,Heart Arrhythmias,1
+62,0,,,,,163,,0,,,Heart Arrhythmias,1
+54,1,,,,,147,,0.4,,,Heart Arrhythmias,0
+51,1,,,,,154,,0,,,Heart Arrhythmias,1
+29,1,,,,,202,,0,,,Heart Arrhythmias,0
+51,1,,,,,186,,0,,,Heart Arrhythmias,0
+43,0,,,,,165,,0.2,,,Heart Arrhythmias,1
+55,0,,,,,161,,1.4,,,Heart Arrhythmias,0
+51,1,,,,,166,,2.4,,,Heart Arrhythmias,0
+59,1,,,,,164,,0,,,Heart Arrhythmias,1
+52,1,,,,,184,,0,,,Heart Arrhythmias,1
+58,1,,,,,154,,0.6,,,Heart Arrhythmias,0
+41,1,,,,,179,,0,,,Heart Arrhythmias,1
+45,1,,,,,170,,0,,,Heart Arrhythmias,0
+60,0,,,,,160,,0,,,Heart Arrhythmias,1
+52,1,,,,,178,,1.2,,,Heart Arrhythmias,1
+42,0,,,,,122,,0.6,,,Heart Arrhythmias,0
+67,0,,,,,160,,1.6,,,Heart Arrhythmias,0
+68,1,,,,,151,,1,,,Heart Arrhythmias,1
+46,1,,,,,156,,0,,,Heart Arrhythmias,1
+54,0,,,,,158,,1.6,,,Heart Arrhythmias,1
+58,0,,,,,122,,1,,,Heart Arrhythmias,0
+48,1,,,,,175,,0,,,Heart Arrhythmias,1
+57,1,,,,,168,,0,,,Heart Arrhythmias,1
+52,1,,,,,169,,0,,,Heart Arrhythmias,1
+54,0,,,,,159,,0,,,Heart Arrhythmias,0
+45,0,,,,,138,,0,,,Heart Arrhythmias,1
+53,1,,,,,111,,0,,,Heart Arrhythmias,0
+62,0,,,,,157,,1.2,,,Heart Arrhythmias,0
+52,1,,,,,147,,0.1,,,Heart Arrhythmias,1
+43,1,,,,,162,,1.9,,,Heart Arrhythmias,1
+53,1,,,,,173,,0,,,Heart Arrhythmias,0
+42,1,,,,,178,,0.8,,,Heart Arrhythmias,0
+59,1,,,,,145,,4.2,,,Heart Arrhythmias,0
+63,0,,,,,179,,0,,,Heart Arrhythmias,1
+42,1,,,,,194,,0.8,,,Heart Arrhythmias,1
+50,1,,,,,163,,0,,,Heart Arrhythmias,1
+68,0,,,,,115,,1.5,,,Heart Arrhythmias,0
+69,1,,,,,131,,0.1,,,Heart Arrhythmias,0
+45,0,,,,,152,,0.2,,,Heart Arrhythmias,0
+50,0,,,,,162,,1.1,,,Heart Arrhythmias,1
+50,0,,,,,159,,0,,,Heart Arrhythmias,0
+64,0,,,,,154,,0,,,Heart Arrhythmias,1
+57,1,,,,,173,,0.2,,,Heart Arrhythmias,1
+64,0,,,,,133,,0.2,,,Heart Arrhythmias,1
+43,1,,,,,161,,0,,,Heart Arrhythmias,1
+55,1,,,,,155,,0,,,Heart Arrhythmias,1
+37,0,,,,,170,,0,,,Heart Arrhythmias,1
+41,1,,,,,168,,2,,,Heart Arrhythmias,0
+56,1,,,,,162,,1.9,,,Heart Arrhythmias,0
+46,0,,,,,172,,0,,,Heart Arrhythmias,1
+46,0,,,,,152,,0,,,Heart Arrhythmias,0
+64,0,,,,,122,,2,,,Heart Arrhythmias,1
+59,1,,,,,182,,0,,,Heart Arrhythmias,0
+41,0,,,,,172,,0,,,Heart Arrhythmias,0
+54,0,,,,,167,,0,,,Heart Arrhythmias,0
+39,0,,,,,179,,0,,,Heart Arrhythmias,1
+34,0,,,,,192,,0.7,,,Heart Arrhythmias,1
+47,1,,,,,143,,0.1,,,Heart Arrhythmias,1
+67,0,,,,,172,,0,,,Heart Arrhythmias,1
+52,0,,,,,169,,0.1,,,Heart Arrhythmias,0
+74,0,,,,,121,,0.2,,,Heart Arrhythmias,0
+54,0,,,,,163,,0,,,Heart Arrhythmias,1
+49,0,,,,,162,,0,,,Heart Arrhythmias,1
+42,1,,,,,162,,0,,,Heart Arrhythmias,1
+41,1,,,,,153,,0,,,Heart Arrhythmias,1
+41,0,,,,,163,,0,,,Heart Arrhythmias,1
+49,0,,,,,163,,0,,,Heart Arrhythmias,1
+60,0,,,,,96,,0,,,Heart Arrhythmias,1
+62,1,,,,,140,,0,,,Heart Arrhythmias,0
+57,1,,,,,126,,1.5,,,Heart Arrhythmias,1
+64,1,,,,,105,,0.2,,,Heart Arrhythmias,1
+51,0,,,,,157,,0.6,,,Heart Arrhythmias,0
+43,1,,,,,181,,1.2,,,Heart Arrhythmias,1
+42,0,,,,,173,,0,,,Heart Arrhythmias,1
+67,0,,,,,142,,0.3,,,Heart Arrhythmias,1
+76,0,,,,,116,,1.1,,,Heart Arrhythmias,2
+70,1,,,,,143,,0,,,Heart Arrhythmias,0
+44,0,,,,,149,,0.3,,,Heart Arrhythmias,1
+60,0,,,,,171,,0.9,,,Heart Arrhythmias,1
+44,1,,,,,169,,0,,,Heart Arrhythmias,1
+42,1,,,,,150,,0,,,Heart Arrhythmias,1
+66,1,,,,,138,,2.3,,,Heart Arrhythmias,0
+71,0,,,,,125,,1.6,,,Heart Arrhythmias,1
+64,1,,,,,155,,0.6,,,Heart Arrhythmias,0
+66,0,,,,,152,,0,,,Heart Arrhythmias,0
+39,0,,,,,152,,0,,,Heart Arrhythmias,1
+58,0,,,,,131,,0.6,,,Heart Arrhythmias,1
+47,1,,,,,179,,0,,,Heart Arrhythmias,1
+35,1,,,,,174,,0,,,Heart Arrhythmias,1
+58,1,,,,,144,,0.4,,,Heart Arrhythmias,1
+56,1,,,,,163,,0,,,Heart Arrhythmias,0
+56,1,,,,,169,,0,,,Heart Arrhythmias,1
+55,0,,,,,166,,1.2,,,Heart Arrhythmias,1
+41,1,,,,,182,,0,,,Heart Arrhythmias,1
+38,1,,,,,173,,0,,,Heart Arrhythmias,1
+38,1,,,,,173,,0,,,Heart Arrhythmias,1
+67,1,,,,,108,,1.5,,,Heart Arrhythmias,0
+67,1,,,,,129,,2.6,,,Heart Arrhythmias,0
+62,0,,,,,160,,3.6,,,Heart Arrhythmias,0
+63,1,,,,,147,,1.4,,,Heart Arrhythmias,0
+53,1,,,,,155,,3.1,,,Heart Arrhythmias,0
+56,1,,,,,142,,0.6,,,Heart Arrhythmias,0
+48,1,,,,,168,,1,,,Heart Arrhythmias,1
+58,1,,,,,160,,1.8,,,Heart Arrhythmias,0
+58,1,,,,,173,,3.2,,,Heart Arrhythmias,0
+60,1,,,,,132,,2.4,,,Heart Arrhythmias,0
+40,1,,,,,114,,2,,,Heart Arrhythmias,0
+60,1,,,,,160,,1.4,,,Heart Arrhythmias,1
+64,1,,,,,158,,0,,,Heart Arrhythmias,1
+43,1,,,,,120,,2.5,,,Heart Arrhythmias,0
+57,1,,,,,112,,0.6,,,Heart Arrhythmias,0
+55,1,,,,,132,,1.2,,,Heart Arrhythmias,1
+65,0,,,,,114,,1,,,Heart Arrhythmias,0
+61,0,,,,,169,,0,,,Heart Arrhythmias,0
+58,1,,,,,165,,2.5,,,Heart Arrhythmias,0
+50,1,,,,,128,,2.6,,,Heart Arrhythmias,0
+44,1,,,,,153,,0,,,Heart Arrhythmias,0
+60,1,,,,,144,,1.4,,,Heart Arrhythmias,1
+54,1,,,,,109,,2.2,,,Heart Arrhythmias,0
+50,1,,,,,163,,0.6,,,Heart Arrhythmias,1
+41,1,,,,,158,,0,,,Heart Arrhythmias,0
+51,0,,,,,142,,1.2,,,Heart Arrhythmias,1
+58,1,,,,,131,,2.2,,,Heart Arrhythmias,0
+54,1,,,,,113,,1.4,,,Heart Arrhythmias,1
+60,1,,,,,142,,2.8,,,Heart Arrhythmias,0
+60,1,,,,,155,,3,,,Heart Arrhythmias,0
+59,1,,,,,140,,3.4,,,Heart Arrhythmias,0
+46,1,,,,,147,,3.6,,,Heart Arrhythmias,1
+67,1,,,,,163,,0.2,,,Heart Arrhythmias,1
+62,1,,,,,99,,1.8,,,Heart Arrhythmias,1
+65,1,,,,,158,,0.6,,,Heart Arrhythmias,0
+44,1,,,,,177,,0,,,Heart Arrhythmias,0
+60,1,,,,,141,,2.8,,,Heart Arrhythmias,0
+58,1,,,,,111,,0.8,,,Heart Arrhythmias,0
+68,1,,,,,150,,1.6,,,Heart Arrhythmias,0
+62,0,,,,,145,,6.2,,,Heart Arrhythmias,0
+52,1,,,,,161,,0,,,Heart Arrhythmias,1
+59,1,,,,,142,,1.2,,,Heart Arrhythmias,0
+60,0,,,,,157,,2.6,,,Heart Arrhythmias,0
+49,1,,,,,139,,2,,,Heart Arrhythmias,1
+59,1,,,,,162,,0,,,Heart Arrhythmias,1
+57,1,,,,,150,,0.4,,,Heart Arrhythmias,0
+61,1,,,,,140,,3.6,,,Heart Arrhythmias,1
+39,1,,,,,140,,1.2,,,Heart Arrhythmias,1
+61,0,,,,,146,,1,,,Heart Arrhythmias,0
+56,1,,,,,144,,1.2,,,Heart Arrhythmias,0
+43,0,,,,,136,,3,,,Heart Arrhythmias,0
+62,0,,,,,97,,1.2,,,Heart Arrhythmias,1
+63,1,,,,,132,,1.8,,,Heart Arrhythmias,0
+65,1,,,,,127,,2.8,,,Heart Arrhythmias,0
+48,1,,,,,150,,0,,,Heart Arrhythmias,0
+63,0,,,,,154,,4,,,Heart Arrhythmias,0
+55,1,,,,,111,,5.6,,,Heart Arrhythmias,1
+65,1,,,,,174,,1.4,,,Heart Arrhythmias,0
+56,0,,,,,133,,4,,,Heart Arrhythmias,0
+54,1,,,,,126,,2.8,,,Heart Arrhythmias,1
+70,1,,,,,125,,2.6,,,Heart Arrhythmias,1
+62,1,,,,,103,,1.4,,,Heart Arrhythmias,0
+35,1,,,,,130,,1.6,,,Heart Arrhythmias,1
+59,1,,,,,159,,0.2,,,Heart Arrhythmias,0
+64,1,,,,,131,,1.8,,,Heart Arrhythmias,1
+47,1,,,,,152,,0,,,Heart Arrhythmias,1
+57,1,,,,,124,,1,,,Heart Arrhythmias,0
+55,1,,,,,145,,0.8,,,Heart Arrhythmias,0
+64,1,,,,,96,,2.2,,,Heart Arrhythmias,0
+70,1,,,,,109,,2.4,,,Heart Arrhythmias,0
+51,1,,,,,173,,1.6,,,Heart Arrhythmias,1
+58,1,,,,,171,,0,,,Heart Arrhythmias,0
+60,1,,,,,170,,1.2,,,Heart Arrhythmias,0
+77,1,,,,,162,,0,,,Heart Arrhythmias,0
+35,1,,,,,156,,0,,,Heart Arrhythmias,0
+70,1,,,,,112,,2.9,,,Heart Arrhythmias,1
+59,0,,,,,143,,0,,,Heart Arrhythmias,1
+64,1,,,,,132,,2,,,Heart Arrhythmias,0
+57,1,,,,,88,,1.2,,,Heart Arrhythmias,1
+56,1,,,,,105,,2.1,,,Heart Arrhythmias,0
+48,1,,,,,166,,0.5,,,Heart Arrhythmias,0
+56,0,,,,,150,,1.9,,,Heart Arrhythmias,0
+66,1,,,,,120,,0,,,Heart Arrhythmias,1
+54,1,,,,,195,,0,,,Heart Arrhythmias,0
+69,1,,,,,146,,2,,,Heart Arrhythmias,0
+51,1,,,,,122,,4.2,,,Heart Arrhythmias,1
+43,1,,,,,143,,0.1,,,Heart Arrhythmias,0
+62,0,,,,,106,,1.9,,,Heart Arrhythmias,1
+67,1,,,,,125,,0.9,,,Heart Arrhythmias,0
+59,1,,,,,125,,0,,,Heart Arrhythmias,0
+45,1,,,,,147,,0,,,Heart Arrhythmias,0
+58,1,,,,,130,,3,,,Heart Arrhythmias,0
+50,1,,,,,126,,0.9,,,Heart Arrhythmias,0
+62,0,,,,,154,,1.4,,,Heart Arrhythmias,1
+38,1,,,,,182,,3.8,,,Heart Arrhythmias,1
+66,0,,,,,165,,1,,,Heart Arrhythmias,1
+52,1,,,,,160,,0,,,Heart Arrhythmias,1
+53,1,,,,,95,,2,,,Heart Arrhythmias,1
+63,0,,,,,169,,1.8,,,Heart Arrhythmias,1
+54,1,,,,,108,,0,,,Heart Arrhythmias,0
+66,1,,,,,132,,0.1,,,Heart Arrhythmias,0
+55,0,,,,,117,,3.4,,,Heart Arrhythmias,2
+49,1,,,,,126,,0.8,,,Heart Arrhythmias,0
+54,1,,,,,116,,3.2,,,Heart Arrhythmias,0
+56,1,,,,,103,,1.6,,,Heart Arrhythmias,0
+46,1,,,,,144,,0.8,,,Heart Arrhythmias,0
+61,1,,,,,145,,2.6,,,Heart Arrhythmias,1
+67,1,,,,,71,,1,,,Heart Arrhythmias,1
+58,1,,,,,156,,0.1,,,Heart Arrhythmias,1
+47,1,,,,,118,,1,,,Heart Arrhythmias,0
+52,1,,,,,168,,1,,,Heart Arrhythmias,1
+58,1,,,,,105,,2,,,Heart Arrhythmias,1
+57,1,,,,,141,,0.3,,,Heart Arrhythmias,1
+58,0,,,,,152,,0,,,Heart Arrhythmias,0
+61,1,,,,,125,,3.6,,,Heart Arrhythmias,0
+42,1,,,,,125,,1.8,,,Heart Arrhythmias,1
+52,1,,,,,156,,1,,,Heart Arrhythmias,1
+59,1,,,,,134,,2.2,,,Heart Arrhythmias,1
+40,1,,,,,181,,0,,,Heart Arrhythmias,1
+61,1,,,,,138,,1.9,,,Heart Arrhythmias,0
+46,1,,,,,120,,1.8,,,Heart Arrhythmias,1
+59,1,,,,,162,,0.8,,,Heart Arrhythmias,1
+57,1,,,,,164,,0,,,Heart Arrhythmias,0
+57,1,,,,,143,,3,,,Heart Arrhythmias,1
+55,0,,,,,130,,2,,,Heart Arrhythmias,2
+61,1,,,,,161,,0,,,Heart Arrhythmias,1
+58,1,,,,,140,,4.4,,,Heart Arrhythmias,2
+58,0,,,,,146,,2.8,,,Heart Arrhythmias,0
+67,1,,,,,150,,0.8,,,Heart Arrhythmias,0
+44,1,,,,,144,,2.8,,,Heart Arrhythmias,1
+63,1,,,,,144,,4,,,Heart Arrhythmias,0
+63,0,,,,,136,,0,,,Heart Arrhythmias,1
+59,1,,,,,90,,1,,,Heart Arrhythmias,0
+57,0,,,,,123,,0.2,,,Heart Arrhythmias,1
+45,1,,,,,132,,1.2,,,Heart Arrhythmias,1
+68,1,,,,,141,,3.4,,,Heart Arrhythmias,1
+57,1,,,,,115,,1.2,,,Heart Arrhythmias,1
+57,0,,,,,174,,0,,,Heart Arrhythmias,0
+63,1,,145,233,,150,,2.3,0,0,Heart Failure,
+37,1,,130,250,,187,,3.5,0,0,Heart Failure,
+41,0,,130,204,,172,,1.4,2,0,Heart Failure,
+56,1,,120,236,,178,,0.8,2,0,Heart Failure,
+57,0,,120,354,,163,,0.6,2,0,Heart Failure,
+57,1,,140,192,,148,,0.4,1,0,Heart Failure,
+56,0,,140,294,,153,,1.3,1,0,Heart Failure,
+44,1,,120,263,,173,,0,2,0,Heart Failure,
+52,1,,172,199,,162,,0.5,2,0,Heart Failure,
+57,1,,150,168,,174,,1.6,2,0,Heart Failure,
+54,1,,140,239,,160,,1.2,2,0,Heart Failure,
+48,0,,130,275,,139,,0.2,2,0,Heart Failure,
+49,1,,130,266,,171,,0.6,2,0,Heart Failure,
+64,1,,110,211,,144,,1.8,1,0,Heart Failure,
+58,0,,150,283,,162,,1,2,0,Heart Failure,
+50,0,,120,219,,158,,1.6,1,0,Heart Failure,
+58,0,,120,340,,172,,0,2,0,Heart Failure,
+66,0,,150,226,,114,,2.6,0,0,Heart Failure,
+43,1,,150,247,,171,,1.5,2,0,Heart Failure,
+69,0,,140,239,,151,,1.8,2,2,Heart Failure,
+59,1,,135,234,,161,,0.5,1,0,Heart Failure,
+44,1,,130,233,,179,,0.4,2,0,Heart Failure,
+42,1,,140,226,,178,,0,2,0,Heart Failure,
+61,1,,150,243,,137,,1,1,0,Heart Failure,
+40,1,,140,199,,178,,1.4,2,0,Heart Failure,
+71,0,,160,302,,162,,0.4,2,2,Heart Failure,
+59,1,,150,212,,157,,1.6,2,0,Heart Failure,
+51,1,,110,175,,123,,0.6,2,0,Heart Failure,
+65,0,,140,417,,157,,0.8,2,1,Heart Failure,
+53,1,,130,197,,152,,1.2,0,0,Heart Failure,
+41,0,,105,198,,168,,0,2,1,Heart Failure,
+65,1,,120,177,,140,,0.4,2,0,Heart Failure,
+44,1,,130,219,,188,,0,2,0,Heart Failure,
+54,1,,125,273,,152,,0.5,0,1,Heart Failure,
+51,1,,125,213,,125,,1.4,2,1,Heart Failure,
+46,0,,142,177,,160,,1.4,0,0,Heart Failure,
+54,0,,135,304,,170,,0,2,0,Heart Failure,
+54,1,,150,232,,165,,1.6,2,0,Heart Failure,
+65,0,,155,269,,148,,0.8,2,0,Heart Failure,
+65,0,,160,360,,151,,0.8,2,0,Heart Failure,
+51,0,,140,308,,142,,1.5,2,1,Heart Failure,
+48,1,,130,245,,180,,0.2,1,0,Heart Failure,
+45,1,,104,208,,148,,3,1,0,Heart Failure,
+53,0,,130,264,,143,,0.4,1,0,Heart Failure,
+39,1,,140,321,,182,,0,2,0,Heart Failure,
+52,1,,120,325,,172,,0.2,2,0,Heart Failure,
+44,1,,140,235,,180,,0,2,0,Heart Failure,
+47,1,,138,257,,156,,0,2,0,Heart Failure,
+53,0,,128,216,,115,,0,2,0,Heart Failure,
+53,0,,138,234,,160,,0,2,0,Heart Failure,
+51,0,,130,256,,149,,0.5,2,0,Heart Failure,
+66,1,,120,302,,151,,0.4,1,0,Heart Failure,
+62,1,,130,231,,146,,1.8,1,3,Heart Failure,
+44,0,,108,141,,175,,0.6,1,0,Heart Failure,
+63,0,,135,252,,172,,0,2,0,Heart Failure,
+52,1,,134,201,,158,,0.8,2,1,Heart Failure,
+48,1,,122,222,,186,,0,2,0,Heart Failure,
+45,1,,115,260,,185,,0,2,0,Heart Failure,
+34,1,,118,182,,174,,0,2,0,Heart Failure,
+57,0,,128,303,,159,,0,2,1,Heart Failure,
+71,0,,110,265,,130,,0,2,1,Heart Failure,
+54,1,,108,309,,156,,0,2,0,Heart Failure,
+52,1,,118,186,,190,,0,1,0,Heart Failure,
+41,1,,135,203,,132,,0,1,0,Heart Failure,
+58,1,,140,211,,165,,0,2,0,Heart Failure,
+35,0,,138,183,,182,,1.4,2,0,Heart Failure,
+51,1,,100,222,,143,,1.2,1,0,Heart Failure,
+45,0,,130,234,,175,,0.6,1,0,Heart Failure,
+44,1,,120,220,,170,,0,2,0,Heart Failure,
+62,0,,124,209,,163,,0,2,0,Heart Failure,
+54,1,,120,258,,147,,0.4,1,0,Heart Failure,
+51,1,,94,227,,154,,0,2,1,Heart Failure,
+29,1,,130,204,,202,,0,2,0,Heart Failure,
+51,1,,140,261,,186,,0,2,0,Heart Failure,
+43,0,,122,213,,165,,0.2,1,0,Heart Failure,
+55,0,,135,250,,161,,1.4,1,0,Heart Failure,
+51,1,,125,245,,166,,2.4,1,0,Heart Failure,
+59,1,,140,221,,164,,0,2,0,Heart Failure,
+52,1,,128,205,,184,,0,2,0,Heart Failure,
+58,1,,105,240,,154,,0.6,1,0,Heart Failure,
+41,1,,112,250,,179,,0,2,0,Heart Failure,
+45,1,,128,308,,170,,0,2,0,Heart Failure,
+60,0,,102,318,,160,,0,2,1,Heart Failure,
+52,1,,152,298,,178,,1.2,1,0,Heart Failure,
+42,0,,102,265,,122,,0.6,1,0,Heart Failure,
+67,0,,115,564,,160,,1.6,1,0,Heart Failure,
+68,1,,118,277,,151,,1,2,1,Heart Failure,
+46,1,,101,197,,156,,0,2,0,Heart Failure,
+54,0,,110,214,,158,,1.6,1,0,Heart Failure,
+58,0,,100,248,,122,,1,1,0,Heart Failure,
+48,1,,124,255,,175,,0,2,2,Heart Failure,
+57,1,,132,207,,168,,0,2,0,Heart Failure,
+52,1,,138,223,,169,,0,2,4,Heart Failure,
+54,0,,132,288,,159,,0,2,1,Heart Failure,
+45,0,,112,160,,138,,0,1,0,Heart Failure,
+53,1,,142,226,,111,,0,2,0,Heart Failure,
+62,0,,140,394,,157,,1.2,1,0,Heart Failure,
+52,1,,108,233,,147,,0.1,2,3,Heart Failure,
+43,1,,130,315,,162,,1.9,2,1,Heart Failure,
+53,1,,130,246,,173,,0,2,3,Heart Failure,
+42,1,,148,244,,178,,0.8,2,2,Heart Failure,
+59,1,,178,270,,145,,4.2,0,0,Heart Failure,
+63,0,,140,195,,179,,0,2,2,Heart Failure,
+42,1,,120,240,,194,,0.8,0,0,Heart Failure,
+50,1,,129,196,,163,,0,2,0,Heart Failure,
+68,0,,120,211,,115,,1.5,1,0,Heart Failure,
+69,1,,160,234,,131,,0.1,1,1,Heart Failure,
+45,0,,138,236,,152,,0.2,1,0,Heart Failure,
+50,0,,120,244,,162,,1.1,2,0,Heart Failure,
+50,0,,110,254,,159,,0,2,0,Heart Failure,
+64,0,,180,325,,154,,0,2,0,Heart Failure,
+57,1,,150,126,,173,,0.2,2,1,Heart Failure,
+64,0,,140,313,,133,,0.2,2,0,Heart Failure,
+43,1,,110,211,,161,,0,2,0,Heart Failure,
+55,1,,130,262,,155,,0,2,0,Heart Failure,
+37,0,,120,215,,170,,0,2,0,Heart Failure,
+41,1,,130,214,,168,,2,1,0,Heart Failure,
+56,1,,120,193,,162,,1.9,1,0,Heart Failure,
+46,0,,105,204,,172,,0,2,0,Heart Failure,
+46,0,,138,243,,152,,0,1,0,Heart Failure,
+64,0,,130,303,,122,,2,1,2,Heart Failure,
+59,1,,138,271,,182,,0,2,0,Heart Failure,
+41,0,,112,268,,172,,0,2,0,Heart Failure,
+54,0,,108,267,,167,,0,2,0,Heart Failure,
+39,0,,94,199,,179,,0,2,0,Heart Failure,
+34,0,,118,210,,192,,0.7,2,0,Heart Failure,
+47,1,,112,204,,143,,0.1,2,0,Heart Failure,
+67,0,,152,277,,172,,0,2,1,Heart Failure,
+52,0,,136,196,,169,,0.1,1,0,Heart Failure,
+74,0,,120,269,,121,,0.2,2,1,Heart Failure,
+54,0,,160,201,,163,,0,2,1,Heart Failure,
+49,0,,134,271,,162,,0,1,0,Heart Failure,
+42,1,,120,295,,162,,0,2,0,Heart Failure,
+41,1,,110,235,,153,,0,2,0,Heart Failure,
+41,0,,126,306,,163,,0,2,0,Heart Failure,
+49,0,,130,269,,163,,0,2,0,Heart Failure,
+60,0,,120,178,,96,,0,2,0,Heart Failure,
+62,1,,128,208,,140,,0,2,0,Heart Failure,
+57,1,,110,201,,126,,1.5,1,0,Heart Failure,
+64,1,,128,263,,105,,0.2,1,1,Heart Failure,
+51,0,,120,295,,157,,0.6,2,0,Heart Failure,
+43,1,,115,303,,181,,1.2,1,0,Heart Failure,
+42,0,,120,209,,173,,0,1,0,Heart Failure,
+67,0,,106,223,,142,,0.3,2,2,Heart Failure,
+76,0,,140,197,,116,,1.1,1,0,Heart Failure,
+70,1,,156,245,,143,,0,2,0,Heart Failure,
+44,0,,118,242,,149,,0.3,1,1,Heart Failure,
+60,0,,150,240,,171,,0.9,2,0,Heart Failure,
+44,1,,120,226,,169,,0,2,0,Heart Failure,
+42,1,,130,180,,150,,0,2,0,Heart Failure,
+66,1,,160,228,,138,,2.3,2,0,Heart Failure,
+71,0,,112,149,,125,,1.6,1,0,Heart Failure,
+64,1,,170,227,,155,,0.6,1,0,Heart Failure,
+66,0,,146,278,,152,,0,1,1,Heart Failure,
+39,0,,138,220,,152,,0,1,0,Heart Failure,
+58,0,,130,197,,131,,0.6,1,0,Heart Failure,
+47,1,,130,253,,179,,0,2,0,Heart Failure,
+35,1,,122,192,,174,,0,2,0,Heart Failure,
+58,1,,125,220,,144,,0.4,1,4,Heart Failure,
+56,1,,130,221,,163,,0,2,0,Heart Failure,
+56,1,,120,240,,169,,0,0,0,Heart Failure,
+55,0,,132,342,,166,,1.2,2,0,Heart Failure,
+41,1,,120,157,,182,,0,2,0,Heart Failure,
+38,1,,138,175,,173,,0,2,4,Heart Failure,
+38,1,,138,175,,173,,0,2,4,Heart Failure,
+67,1,,160,286,,108,,1.5,1,3,Heart Failure,
+67,1,,120,229,,129,,2.6,1,2,Heart Failure,
+62,0,,140,268,,160,,3.6,0,2,Heart Failure,
+63,1,,130,254,,147,,1.4,1,1,Heart Failure,
+53,1,,140,203,,155,,3.1,0,0,Heart Failure,
+56,1,,130,256,,142,,0.6,1,1,Heart Failure,
+48,1,,110,229,,168,,1,0,0,Heart Failure,
+58,1,,120,284,,160,,1.8,1,0,Heart Failure,
+58,1,,132,224,,173,,3.2,2,2,Heart Failure,
+60,1,,130,206,,132,,2.4,1,2,Heart Failure,
+40,1,,110,167,,114,,2,1,0,Heart Failure,
+60,1,,117,230,,160,,1.4,2,2,Heart Failure,
+64,1,,140,335,,158,,0,2,0,Heart Failure,
+43,1,,120,177,,120,,2.5,1,0,Heart Failure,
+57,1,,150,276,,112,,0.6,1,1,Heart Failure,
+55,1,,132,353,,132,,1.2,1,1,Heart Failure,
+65,0,,150,225,,114,,1,1,3,Heart Failure,
+61,0,,130,330,,169,,0,2,0,Heart Failure,
+58,1,,112,230,,165,,2.5,1,1,Heart Failure,
+50,1,,150,243,,128,,2.6,1,0,Heart Failure,
+44,1,,112,290,,153,,0,2,1,Heart Failure,
+60,1,,130,253,,144,,1.4,2,1,Heart Failure,
+54,1,,124,266,,109,,2.2,1,1,Heart Failure,
+50,1,,140,233,,163,,0.6,1,1,Heart Failure,
+41,1,,110,172,,158,,0,2,0,Heart Failure,
+51,0,,130,305,,142,,1.2,1,0,Heart Failure,
+58,1,,128,216,,131,,2.2,1,3,Heart Failure,
+54,1,,120,188,,113,,1.4,1,1,Heart Failure,
+60,1,,145,282,,142,,2.8,1,2,Heart Failure,
+60,1,,140,185,,155,,3,1,0,Heart Failure,
+59,1,,170,326,,140,,3.4,0,0,Heart Failure,
+46,1,,150,231,,147,,3.6,1,0,Heart Failure,
+67,1,,125,254,,163,,0.2,1,2,Heart Failure,
+62,1,,120,267,,99,,1.8,1,2,Heart Failure,
+65,1,,110,248,,158,,0.6,2,2,Heart Failure,
+44,1,,110,197,,177,,0,2,1,Heart Failure,
+60,1,,125,258,,141,,2.8,1,1,Heart Failure,
+58,1,,150,270,,111,,0.8,2,0,Heart Failure,
+68,1,,180,274,,150,,1.6,1,0,Heart Failure,
+62,0,,160,164,,145,,6.2,0,3,Heart Failure,
+52,1,,128,255,,161,,0,2,1,Heart Failure,
+59,1,,110,239,,142,,1.2,1,1,Heart Failure,
+60,0,,150,258,,157,,2.6,1,2,Heart Failure,
+49,1,,120,188,,139,,2,1,3,Heart Failure,
+59,1,,140,177,,162,,0,2,1,Heart Failure,
+57,1,,128,229,,150,,0.4,1,1,Heart Failure,
+61,1,,120,260,,140,,3.6,1,1,Heart Failure,
+39,1,,118,219,,140,,1.2,1,0,Heart Failure,
+61,0,,145,307,,146,,1,1,0,Heart Failure,
+56,1,,125,249,,144,,1.2,1,1,Heart Failure,
+43,0,,132,341,,136,,3,1,0,Heart Failure,
+62,0,,130,263,,97,,1.2,1,1,Heart Failure,
+63,1,,130,330,,132,,1.8,2,3,Heart Failure,
+65,1,,135,254,,127,,2.8,1,1,Heart Failure,
+48,1,,130,256,,150,,0,2,2,Heart Failure,
+63,0,,150,407,,154,,4,1,3,Heart Failure,
+55,1,,140,217,,111,,5.6,0,0,Heart Failure,
+65,1,,138,282,,174,,1.4,1,1,Heart Failure,
+56,0,,200,288,,133,,4,0,2,Heart Failure,
+54,1,,110,239,,126,,2.8,1,1,Heart Failure,
+70,1,,145,174,,125,,2.6,0,0,Heart Failure,
+62,1,,120,281,,103,,1.4,1,1,Heart Failure,
+35,1,,120,198,,130,,1.6,1,0,Heart Failure,
+59,1,,170,288,,159,,0.2,1,0,Heart Failure,
+64,1,,125,309,,131,,1.8,1,0,Heart Failure,
+47,1,,108,243,,152,,0,2,0,Heart Failure,
+57,1,,165,289,,124,,1,1,3,Heart Failure,
+55,1,,160,289,,145,,0.8,1,1,Heart Failure,
+64,1,,120,246,,96,,2.2,0,1,Heart Failure,
+70,1,,130,322,,109,,2.4,1,3,Heart Failure,
+51,1,,140,299,,173,,1.6,2,0,Heart Failure,
+58,1,,125,300,,171,,0,2,2,Heart Failure,
+60,1,,140,293,,170,,1.2,1,2,Heart Failure,
+77,1,,125,304,,162,,0,2,3,Heart Failure,
+35,1,,126,282,,156,,0,2,0,Heart Failure,
+70,1,,160,269,,112,,2.9,1,1,Heart Failure,
+59,0,,174,249,,143,,0,1,0,Heart Failure,
+64,1,,145,212,,132,,2,1,2,Heart Failure,
+57,1,,152,274,,88,,1.2,1,1,Heart Failure,
+56,1,,132,184,,105,,2.1,1,1,Heart Failure,
+48,1,,124,274,,166,,0.5,1,0,Heart Failure,
+56,0,,134,409,,150,,1.9,1,2,Heart Failure,
+66,1,,160,246,,120,,0,1,3,Heart Failure,
+54,1,,192,283,,195,,0,2,1,Heart Failure,
+69,1,,140,254,,146,,2,1,3,Heart Failure,
+51,1,,140,298,,122,,4.2,1,3,Heart Failure,
+43,1,,132,247,,143,,0.1,1,4,Heart Failure,
+62,0,,138,294,,106,,1.9,1,3,Heart Failure,
+67,1,,100,299,,125,,0.9,1,2,Heart Failure,
+59,1,,160,273,,125,,0,2,0,Heart Failure,
+45,1,,142,309,,147,,0,1,3,Heart Failure,
+58,1,,128,259,,130,,3,1,2,Heart Failure,
+50,1,,144,200,,126,,0.9,1,0,Heart Failure,
+62,0,,150,244,,154,,1.4,1,0,Heart Failure,
+38,1,,120,231,,182,,3.8,1,0,Heart Failure,
+66,0,,178,228,,165,,1,1,2,Heart Failure,
+52,1,,112,230,,160,,0,2,1,Heart Failure,
+53,1,,123,282,,95,,2,1,2,Heart Failure,
+63,0,,108,269,,169,,1.8,1,2,Heart Failure,
+54,1,,110,206,,108,,0,1,1,Heart Failure,
+66,1,,112,212,,132,,0.1,2,1,Heart Failure,
+55,0,,180,327,,117,,3.4,1,0,Heart Failure,
+49,1,,118,149,,126,,0.8,2,3,Heart Failure,
+54,1,,122,286,,116,,3.2,1,2,Heart Failure,
+56,1,,130,283,,103,,1.6,0,0,Heart Failure,
+46,1,,120,249,,144,,0.8,2,0,Heart Failure,
+61,1,,134,234,,145,,2.6,1,2,Heart Failure,
+67,1,,120,237,,71,,1,1,0,Heart Failure,
+58,1,,100,234,,156,,0.1,2,1,Heart Failure,
+47,1,,110,275,,118,,1,1,1,Heart Failure,
+52,1,,125,212,,168,,1,2,2,Heart Failure,
+58,1,,146,218,,105,,2,1,1,Heart Failure,
+57,1,,124,261,,141,,0.3,2,0,Heart Failure,
+58,0,,136,319,,152,,0,2,2,Heart Failure,
+61,1,,138,166,,125,,3.6,1,1,Heart Failure,
+42,1,,136,315,,125,,1.8,1,0,Heart Failure,
+52,1,,128,204,,156,,1,1,0,Heart Failure,
+59,1,,126,218,,134,,2.2,1,1,Heart Failure,
+40,1,,152,223,,181,,0,2,0,Heart Failure,
+61,1,,140,207,,138,,1.9,2,1,Heart Failure,
+46,1,,140,311,,120,,1.8,1,2,Heart Failure,
+59,1,,134,204,,162,,0.8,2,2,Heart Failure,
+57,1,,154,232,,164,,0,2,1,Heart Failure,
+57,1,,110,335,,143,,3,1,1,Heart Failure,
+55,0,,128,205,,130,,2,1,1,Heart Failure,
+61,1,,148,203,,161,,0,2,1,Heart Failure,
+58,1,,114,318,,140,,4.4,0,3,Heart Failure,
+58,0,,170,225,,146,,2.8,1,2,Heart Failure,
+67,1,,152,212,,150,,0.8,1,0,Heart Failure,
+44,1,,120,169,,144,,2.8,0,0,Heart Failure,
+63,1,,140,187,,144,,4,2,2,Heart Failure,
+63,0,,124,197,,136,,0,1,0,Heart Failure,
+59,1,,164,176,,90,,1,1,2,Heart Failure,
+57,0,,140,241,,123,,0.2,1,0,Heart Failure,
+45,1,,110,264,,132,,1.2,1,0,Heart Failure,
+68,1,,144,193,,141,,3.4,1,2,Heart Failure,
+57,1,,130,131,,115,,1.2,1,1,Heart Failure,
+57,0,,130,236,,174,,0,1,1,Heart Failure,
+63,1,3,,,,,,2.3,,,Heart Valve Disease,0
+37,1,2,,,,,,3.5,,,Heart Valve Disease,1
+41,0,1,,,,,,1.4,,,Heart Valve Disease,0
+56,1,1,,,,,,0.8,,,Heart Valve Disease,1
+57,0,0,,,,,,0.6,,,Heart Valve Disease,1
+57,1,0,,,,,,0.4,,,Heart Valve Disease,1
+56,0,1,,,,,,1.3,,,Heart Valve Disease,0
+44,1,1,,,,,,0,,,Heart Valve Disease,1
+52,1,2,,,,,,0.5,,,Heart Valve Disease,1
+57,1,2,,,,,,1.6,,,Heart Valve Disease,1
+54,1,0,,,,,,1.2,,,Heart Valve Disease,1
+48,0,2,,,,,,0.2,,,Heart Valve Disease,1
+49,1,1,,,,,,0.6,,,Heart Valve Disease,1
+64,1,3,,,,,,1.8,,,Heart Valve Disease,0
+58,0,3,,,,,,1,,,Heart Valve Disease,0
+50,0,2,,,,,,1.6,,,Heart Valve Disease,1
+58,0,2,,,,,,0,,,Heart Valve Disease,1
+66,0,3,,,,,,2.6,,,Heart Valve Disease,1
+43,1,0,,,,,,1.5,,,Heart Valve Disease,1
+69,0,3,,,,,,1.8,,,Heart Valve Disease,1
+59,1,0,,,,,,0.5,,,Heart Valve Disease,1
+44,1,2,,,,,,0.4,,,Heart Valve Disease,1
+42,1,0,,,,,,0,,,Heart Valve Disease,1
+61,1,2,,,,,,1,,,Heart Valve Disease,1
+40,1,3,,,,,,1.4,,,Heart Valve Disease,1
+71,0,1,,,,,,0.4,,,Heart Valve Disease,1
+59,1,2,,,,,,1.6,,,Heart Valve Disease,1
+51,1,2,,,,,,0.6,,,Heart Valve Disease,1
+65,0,2,,,,,,0.8,,,Heart Valve Disease,0
+53,1,2,,,,,,1.2,,,Heart Valve Disease,0
+41,0,1,,,,,,0,,,Heart Valve Disease,1
+65,1,0,,,,,,0.4,,,Heart Valve Disease,1
+44,1,1,,,,,,0,,,Heart Valve Disease,0
+54,1,2,,,,,,0.5,,,Heart Valve Disease,0
+51,1,3,,,,,,1.4,,,Heart Valve Disease,0
+46,0,2,,,,,,1.4,,,Heart Valve Disease,0
+54,0,2,,,,,,0,,,Heart Valve Disease,1
+54,1,2,,,,,,1.6,,,Heart Valve Disease,0
+65,0,2,,,,,,0.8,,,Heart Valve Disease,1
+65,0,2,,,,,,0.8,,,Heart Valve Disease,0
+51,0,2,,,,,,1.5,,,Heart Valve Disease,0
+48,1,1,,,,,,0.2,,,Heart Valve Disease,0
+45,1,0,,,,,,3,,,Heart Valve Disease,0
+53,0,0,,,,,,0.4,,,Heart Valve Disease,0
+39,1,2,,,,,,0,,,Heart Valve Disease,0
+52,1,1,,,,,,0.2,,,Heart Valve Disease,1
+44,1,2,,,,,,0,,,Heart Valve Disease,0
+47,1,2,,,,,,0,,,Heart Valve Disease,0
+53,0,2,,,,,,0,,,Heart Valve Disease,0
+53,0,0,,,,,,0,,,Heart Valve Disease,0
+51,0,2,,,,,,0.5,,,Heart Valve Disease,0
+66,1,0,,,,,,0.4,,,Heart Valve Disease,0
+62,1,2,,,,,,1.8,,,Heart Valve Disease,1
+44,0,2,,,,,,0.6,,,Heart Valve Disease,1
+63,0,2,,,,,,0,,,Heart Valve Disease,0
+52,1,1,,,,,,0.8,,,Heart Valve Disease,1
+48,1,0,,,,,,0,,,Heart Valve Disease,0
+45,1,0,,,,,,0,,,Heart Valve Disease,0
+34,1,3,,,,,,0,,,Heart Valve Disease,0
+57,0,0,,,,,,0,,,Heart Valve Disease,0
+71,0,2,,,,,,0,,,Heart Valve Disease,0
+54,1,1,,,,,,0,,,Heart Valve Disease,1
+52,1,3,,,,,,0,,,Heart Valve Disease,0
+41,1,1,,,,,,0,,,Heart Valve Disease,1
+58,1,2,,,,,,0,,,Heart Valve Disease,0
+35,0,0,,,,,,1.4,,,Heart Valve Disease,1
+51,1,2,,,,,,1.2,,,Heart Valve Disease,1
+45,0,1,,,,,,0.6,,,Heart Valve Disease,0
+44,1,1,,,,,,0,,,Heart Valve Disease,1
+62,0,0,,,,,,0,,,Heart Valve Disease,1
+54,1,2,,,,,,0.4,,,Heart Valve Disease,0
+51,1,2,,,,,,0,,,Heart Valve Disease,1
+29,1,1,,,,,,0,,,Heart Valve Disease,0
+51,1,0,,,,,,0,,,Heart Valve Disease,0
+43,0,2,,,,,,0.2,,,Heart Valve Disease,1
+55,0,1,,,,,,1.4,,,Heart Valve Disease,0
+51,1,2,,,,,,2.4,,,Heart Valve Disease,0
+59,1,1,,,,,,0,,,Heart Valve Disease,1
+52,1,1,,,,,,0,,,Heart Valve Disease,1
+58,1,2,,,,,,0.6,,,Heart Valve Disease,0
+41,1,2,,,,,,0,,,Heart Valve Disease,1
+45,1,1,,,,,,0,,,Heart Valve Disease,0
+60,0,2,,,,,,0,,,Heart Valve Disease,1
+52,1,3,,,,,,1.2,,,Heart Valve Disease,1
+42,0,0,,,,,,0.6,,,Heart Valve Disease,0
+67,0,2,,,,,,1.6,,,Heart Valve Disease,0
+68,1,2,,,,,,1,,,Heart Valve Disease,1
+46,1,1,,,,,,0,,,Heart Valve Disease,1
+54,0,2,,,,,,1.6,,,Heart Valve Disease,1
+58,0,0,,,,,,1,,,Heart Valve Disease,0
+48,1,2,,,,,,0,,,Heart Valve Disease,1
+57,1,0,,,,,,0,,,Heart Valve Disease,1
+52,1,2,,,,,,0,,,Heart Valve Disease,1
+54,0,1,,,,,,0,,,Heart Valve Disease,0
+45,0,1,,,,,,0,,,Heart Valve Disease,1
+53,1,0,,,,,,0,,,Heart Valve Disease,0
+62,0,0,,,,,,1.2,,,Heart Valve Disease,0
+52,1,0,,,,,,0.1,,,Heart Valve Disease,1
+43,1,2,,,,,,1.9,,,Heart Valve Disease,1
+53,1,2,,,,,,0,,,Heart Valve Disease,0
+42,1,3,,,,,,0.8,,,Heart Valve Disease,0
+59,1,3,,,,,,4.2,,,Heart Valve Disease,0
+63,0,1,,,,,,0,,,Heart Valve Disease,1
+42,1,2,,,,,,0.8,,,Heart Valve Disease,1
+50,1,2,,,,,,0,,,Heart Valve Disease,1
+68,0,2,,,,,,1.5,,,Heart Valve Disease,0
+69,1,3,,,,,,0.1,,,Heart Valve Disease,0
+45,0,0,,,,,,0.2,,,Heart Valve Disease,0
+50,0,1,,,,,,1.1,,,Heart Valve Disease,1
+50,0,0,,,,,,0,,,Heart Valve Disease,0
+64,0,0,,,,,,0,,,Heart Valve Disease,1
+57,1,2,,,,,,0.2,,,Heart Valve Disease,1
+64,0,2,,,,,,0.2,,,Heart Valve Disease,1
+43,1,0,,,,,,0,,,Heart Valve Disease,1
+55,1,1,,,,,,0,,,Heart Valve Disease,1
+37,0,2,,,,,,0,,,Heart Valve Disease,1
+41,1,2,,,,,,2,,,Heart Valve Disease,0
+56,1,3,,,,,,1.9,,,Heart Valve Disease,0
+46,0,1,,,,,,0,,,Heart Valve Disease,1
+46,0,0,,,,,,0,,,Heart Valve Disease,0
+64,0,0,,,,,,2,,,Heart Valve Disease,1
+59,1,0,,,,,,0,,,Heart Valve Disease,0
+41,0,2,,,,,,0,,,Heart Valve Disease,0
+54,0,2,,,,,,0,,,Heart Valve Disease,0
+39,0,2,,,,,,0,,,Heart Valve Disease,1
+34,0,1,,,,,,0.7,,,Heart Valve Disease,1
+47,1,0,,,,,,0.1,,,Heart Valve Disease,1
+67,0,2,,,,,,0,,,Heart Valve Disease,1
+52,0,2,,,,,,0.1,,,Heart Valve Disease,0
+74,0,1,,,,,,0.2,,,Heart Valve Disease,0
+54,0,2,,,,,,0,,,Heart Valve Disease,1
+49,0,1,,,,,,0,,,Heart Valve Disease,1
+42,1,1,,,,,,0,,,Heart Valve Disease,1
+41,1,1,,,,,,0,,,Heart Valve Disease,1
+41,0,1,,,,,,0,,,Heart Valve Disease,1
+49,0,0,,,,,,0,,,Heart Valve Disease,1
+60,0,2,,,,,,0,,,Heart Valve Disease,1
+62,1,1,,,,,,0,,,Heart Valve Disease,0
+57,1,0,,,,,,1.5,,,Heart Valve Disease,1
+64,1,0,,,,,,0.2,,,Heart Valve Disease,1
+51,0,2,,,,,,0.6,,,Heart Valve Disease,0
+43,1,0,,,,,,1.2,,,Heart Valve Disease,1
+42,0,2,,,,,,0,,,Heart Valve Disease,1
+67,0,0,,,,,,0.3,,,Heart Valve Disease,1
+76,0,2,,,,,,1.1,,,Heart Valve Disease,2
+70,1,1,,,,,,0,,,Heart Valve Disease,0
+44,0,2,,,,,,0.3,,,Heart Valve Disease,1
+60,0,3,,,,,,0.9,,,Heart Valve Disease,1
+44,1,2,,,,,,0,,,Heart Valve Disease,1
+42,1,2,,,,,,0,,,Heart Valve Disease,1
+66,1,0,,,,,,2.3,,,Heart Valve Disease,0
+71,0,0,,,,,,1.6,,,Heart Valve Disease,1
+64,1,3,,,,,,0.6,,,Heart Valve Disease,0
+66,0,2,,,,,,0,,,Heart Valve Disease,0
+39,0,2,,,,,,0,,,Heart Valve Disease,1
+58,0,0,,,,,,0.6,,,Heart Valve Disease,1
+47,1,2,,,,,,0,,,Heart Valve Disease,1
+35,1,1,,,,,,0,,,Heart Valve Disease,1
+58,1,1,,,,,,0.4,,,Heart Valve Disease,1
+56,1,1,,,,,,0,,,Heart Valve Disease,0
+56,1,1,,,,,,0,,,Heart Valve Disease,1
+55,0,1,,,,,,1.2,,,Heart Valve Disease,1
+41,1,1,,,,,,0,,,Heart Valve Disease,1
+38,1,2,,,,,,0,,,Heart Valve Disease,1
+38,1,2,,,,,,0,,,Heart Valve Disease,1
+67,1,0,,,,,,1.5,,,Heart Valve Disease,0
+67,1,0,,,,,,2.6,,,Heart Valve Disease,0
+62,0,0,,,,,,3.6,,,Heart Valve Disease,0
+63,1,0,,,,,,1.4,,,Heart Valve Disease,0
+53,1,0,,,,,,3.1,,,Heart Valve Disease,0
+56,1,2,,,,,,0.6,,,Heart Valve Disease,0
+48,1,1,,,,,,1,,,Heart Valve Disease,1
+58,1,1,,,,,,1.8,,,Heart Valve Disease,0
+58,1,2,,,,,,3.2,,,Heart Valve Disease,0
+60,1,0,,,,,,2.4,,,Heart Valve Disease,0
+40,1,0,,,,,,2,,,Heart Valve Disease,0
+60,1,0,,,,,,1.4,,,Heart Valve Disease,1
+64,1,2,,,,,,0,,,Heart Valve Disease,1
+43,1,0,,,,,,2.5,,,Heart Valve Disease,0
+57,1,0,,,,,,0.6,,,Heart Valve Disease,0
+55,1,0,,,,,,1.2,,,Heart Valve Disease,1
+65,0,0,,,,,,1,,,Heart Valve Disease,0
+61,0,0,,,,,,0,,,Heart Valve Disease,0
+58,1,2,,,,,,2.5,,,Heart Valve Disease,0
+50,1,0,,,,,,2.6,,,Heart Valve Disease,0
+44,1,0,,,,,,0,,,Heart Valve Disease,0
+60,1,0,,,,,,1.4,,,Heart Valve Disease,1
+54,1,0,,,,,,2.2,,,Heart Valve Disease,0
+50,1,2,,,,,,0.6,,,Heart Valve Disease,1
+41,1,0,,,,,,0,,,Heart Valve Disease,0
+51,0,0,,,,,,1.2,,,Heart Valve Disease,1
+58,1,0,,,,,,2.2,,,Heart Valve Disease,0
+54,1,0,,,,,,1.4,,,Heart Valve Disease,1
+60,1,0,,,,,,2.8,,,Heart Valve Disease,0
+60,1,2,,,,,,3,,,Heart Valve Disease,0
+59,1,0,,,,,,3.4,,,Heart Valve Disease,0
+46,1,2,,,,,,3.6,,,Heart Valve Disease,1
+67,1,0,,,,,,0.2,,,Heart Valve Disease,1
+62,1,0,,,,,,1.8,,,Heart Valve Disease,1
+65,1,0,,,,,,0.6,,,Heart Valve Disease,0
+44,1,0,,,,,,0,,,Heart Valve Disease,0
+60,1,0,,,,,,2.8,,,Heart Valve Disease,0
+58,1,0,,,,,,0.8,,,Heart Valve Disease,0
+68,1,2,,,,,,1.6,,,Heart Valve Disease,0
+62,0,0,,,,,,6.2,,,Heart Valve Disease,0
+52,1,0,,,,,,0,,,Heart Valve Disease,1
+59,1,0,,,,,,1.2,,,Heart Valve Disease,0
+60,0,0,,,,,,2.6,,,Heart Valve Disease,0
+49,1,2,,,,,,2,,,Heart Valve Disease,1
+59,1,0,,,,,,0,,,Heart Valve Disease,1
+57,1,2,,,,,,0.4,,,Heart Valve Disease,0
+61,1,0,,,,,,3.6,,,Heart Valve Disease,1
+39,1,0,,,,,,1.2,,,Heart Valve Disease,1
+61,0,0,,,,,,1,,,Heart Valve Disease,0
+56,1,0,,,,,,1.2,,,Heart Valve Disease,0
+43,0,0,,,,,,3,,,Heart Valve Disease,0
+62,0,2,,,,,,1.2,,,Heart Valve Disease,1
+63,1,0,,,,,,1.8,,,Heart Valve Disease,0
+65,1,0,,,,,,2.8,,,Heart Valve Disease,0
+48,1,0,,,,,,0,,,Heart Valve Disease,0
+63,0,0,,,,,,4,,,Heart Valve Disease,0
+55,1,0,,,,,,5.6,,,Heart Valve Disease,1
+65,1,3,,,,,,1.4,,,Heart Valve Disease,0
+56,0,0,,,,,,4,,,Heart Valve Disease,0
+54,1,0,,,,,,2.8,,,Heart Valve Disease,1
+70,1,0,,,,,,2.6,,,Heart Valve Disease,1
+62,1,1,,,,,,1.4,,,Heart Valve Disease,0
+35,1,0,,,,,,1.6,,,Heart Valve Disease,1
+59,1,3,,,,,,0.2,,,Heart Valve Disease,0
+64,1,2,,,,,,1.8,,,Heart Valve Disease,1
+47,1,2,,,,,,0,,,Heart Valve Disease,1
+57,1,0,,,,,,1,,,Heart Valve Disease,0
+55,1,0,,,,,,0.8,,,Heart Valve Disease,0
+64,1,0,,,,,,2.2,,,Heart Valve Disease,0
+70,1,0,,,,,,2.4,,,Heart Valve Disease,0
+51,1,0,,,,,,1.6,,,Heart Valve Disease,1
+58,1,0,,,,,,0,,,Heart Valve Disease,0
+60,1,0,,,,,,1.2,,,Heart Valve Disease,0
+77,1,0,,,,,,0,,,Heart Valve Disease,0
+35,1,0,,,,,,0,,,Heart Valve Disease,0
+70,1,2,,,,,,2.9,,,Heart Valve Disease,1
+59,0,0,,,,,,0,,,Heart Valve Disease,1
+64,1,0,,,,,,2,,,Heart Valve Disease,0
+57,1,0,,,,,,1.2,,,Heart Valve Disease,1
+56,1,0,,,,,,2.1,,,Heart Valve Disease,0
+48,1,0,,,,,,0.5,,,Heart Valve Disease,0
+56,0,0,,,,,,1.9,,,Heart Valve Disease,0
+66,1,1,,,,,,0,,,Heart Valve Disease,1
+54,1,1,,,,,,0,,,Heart Valve Disease,0
+69,1,2,,,,,,2,,,Heart Valve Disease,0
+51,1,0,,,,,,4.2,,,Heart Valve Disease,1
+43,1,0,,,,,,0.1,,,Heart Valve Disease,0
+62,0,0,,,,,,1.9,,,Heart Valve Disease,1
+67,1,0,,,,,,0.9,,,Heart Valve Disease,0
+59,1,3,,,,,,0,,,Heart Valve Disease,0
+45,1,0,,,,,,0,,,Heart Valve Disease,0
+58,1,0,,,,,,3,,,Heart Valve Disease,0
+50,1,0,,,,,,0.9,,,Heart Valve Disease,0
+62,0,0,,,,,,1.4,,,Heart Valve Disease,1
+38,1,3,,,,,,3.8,,,Heart Valve Disease,1
+66,0,0,,,,,,1,,,Heart Valve Disease,1
+52,1,0,,,,,,0,,,Heart Valve Disease,1
+53,1,0,,,,,,2,,,Heart Valve Disease,1
+63,0,0,,,,,,1.8,,,Heart Valve Disease,1
+54,1,0,,,,,,0,,,Heart Valve Disease,0
+66,1,0,,,,,,0.1,,,Heart Valve Disease,0
+55,0,0,,,,,,3.4,,,Heart Valve Disease,2
+49,1,2,,,,,,0.8,,,Heart Valve Disease,0
+54,1,0,,,,,,3.2,,,Heart Valve Disease,0
+56,1,0,,,,,,1.6,,,Heart Valve Disease,0
+46,1,0,,,,,,0.8,,,Heart Valve Disease,0
+61,1,3,,,,,,2.6,,,Heart Valve Disease,1
+67,1,0,,,,,,1,,,Heart Valve Disease,1
+58,1,0,,,,,,0.1,,,Heart Valve Disease,1
+47,1,0,,,,,,1,,,Heart Valve Disease,0
+52,1,0,,,,,,1,,,Heart Valve Disease,1
+58,1,0,,,,,,2,,,Heart Valve Disease,1
+57,1,1,,,,,,0.3,,,Heart Valve Disease,1
+58,0,1,,,,,,0,,,Heart Valve Disease,0
+61,1,0,,,,,,3.6,,,Heart Valve Disease,0
+42,1,0,,,,,,1.8,,,Heart Valve Disease,1
+52,1,0,,,,,,1,,,Heart Valve Disease,1
+59,1,2,,,,,,2.2,,,Heart Valve Disease,1
+40,1,0,,,,,,0,,,Heart Valve Disease,1
+61,1,0,,,,,,1.9,,,Heart Valve Disease,0
+46,1,0,,,,,,1.8,,,Heart Valve Disease,1
+59,1,3,,,,,,0.8,,,Heart Valve Disease,1
+57,1,1,,,,,,0,,,Heart Valve Disease,0
+57,1,0,,,,,,3,,,Heart Valve Disease,1
+55,0,0,,,,,,2,,,Heart Valve Disease,2
+61,1,0,,,,,,0,,,Heart Valve Disease,1
+58,1,0,,,,,,4.4,,,Heart Valve Disease,2
+58,0,0,,,,,,2.8,,,Heart Valve Disease,0
+67,1,2,,,,,,0.8,,,Heart Valve Disease,0
+44,1,0,,,,,,2.8,,,Heart Valve Disease,1
+63,1,0,,,,,,4,,,Heart Valve Disease,0
+63,0,0,,,,,,0,,,Heart Valve Disease,1
+59,1,0,,,,,,1,,,Heart Valve Disease,0
+57,0,0,,,,,,0.2,,,Heart Valve Disease,1
+45,1,3,,,,,,1.2,,,Heart Valve Disease,1
+68,1,0,,,,,,3.4,,,Heart Valve Disease,1
+57,1,0,,,,,,1.2,,,Heart Valve Disease,1
+57,0,1,,,,,,0,,,Heart Valve Disease,0
+63,1,3,145,233,,,,,,,Congenital Heart Defects,
+37,1,2,130,250,,,,,,,Congenital Heart Defects,
+41,0,1,130,204,,,,,,,Congenital Heart Defects,
+56,1,1,120,236,,,,,,,Congenital Heart Defects,
+57,0,0,120,354,,,,,,,Congenital Heart Defects,
+57,1,0,140,192,,,,,,,Congenital Heart Defects,
+56,0,1,140,294,,,,,,,Congenital Heart Defects,
+44,1,1,120,263,,,,,,,Congenital Heart Defects,
+52,1,2,172,199,,,,,,,Congenital Heart Defects,
+57,1,2,150,168,,,,,,,Congenital Heart Defects,
+54,1,0,140,239,,,,,,,Congenital Heart Defects,
+48,0,2,130,275,,,,,,,Congenital Heart Defects,
+49,1,1,130,266,,,,,,,Congenital Heart Defects,
+64,1,3,110,211,,,,,,,Congenital Heart Defects,
+58,0,3,150,283,,,,,,,Congenital Heart Defects,
+50,0,2,120,219,,,,,,,Congenital Heart Defects,
+58,0,2,120,340,,,,,,,Congenital Heart Defects,
+66,0,3,150,226,,,,,,,Congenital Heart Defects,
+43,1,0,150,247,,,,,,,Congenital Heart Defects,
+69,0,3,140,239,,,,,,,Congenital Heart Defects,
+59,1,0,135,234,,,,,,,Congenital Heart Defects,
+44,1,2,130,233,,,,,,,Congenital Heart Defects,
+42,1,0,140,226,,,,,,,Congenital Heart Defects,
+61,1,2,150,243,,,,,,,Congenital Heart Defects,
+40,1,3,140,199,,,,,,,Congenital Heart Defects,
+71,0,1,160,302,,,,,,,Congenital Heart Defects,
+59,1,2,150,212,,,,,,,Congenital Heart Defects,
+51,1,2,110,175,,,,,,,Congenital Heart Defects,
+65,0,2,140,417,,,,,,,Congenital Heart Defects,
+53,1,2,130,197,,,,,,,Congenital Heart Defects,
+41,0,1,105,198,,,,,,,Congenital Heart Defects,
+65,1,0,120,177,,,,,,,Congenital Heart Defects,
+44,1,1,130,219,,,,,,,Congenital Heart Defects,
+54,1,2,125,273,,,,,,,Congenital Heart Defects,
+51,1,3,125,213,,,,,,,Congenital Heart Defects,
+46,0,2,142,177,,,,,,,Congenital Heart Defects,
+54,0,2,135,304,,,,,,,Congenital Heart Defects,
+54,1,2,150,232,,,,,,,Congenital Heart Defects,
+65,0,2,155,269,,,,,,,Congenital Heart Defects,
+65,0,2,160,360,,,,,,,Congenital Heart Defects,
+51,0,2,140,308,,,,,,,Congenital Heart Defects,
+48,1,1,130,245,,,,,,,Congenital Heart Defects,
+45,1,0,104,208,,,,,,,Congenital Heart Defects,
+53,0,0,130,264,,,,,,,Congenital Heart Defects,
+39,1,2,140,321,,,,,,,Congenital Heart Defects,
+52,1,1,120,325,,,,,,,Congenital Heart Defects,
+44,1,2,140,235,,,,,,,Congenital Heart Defects,
+47,1,2,138,257,,,,,,,Congenital Heart Defects,
+53,0,2,128,216,,,,,,,Congenital Heart Defects,
+53,0,0,138,234,,,,,,,Congenital Heart Defects,
+51,0,2,130,256,,,,,,,Congenital Heart Defects,
+66,1,0,120,302,,,,,,,Congenital Heart Defects,
+62,1,2,130,231,,,,,,,Congenital Heart Defects,
+44,0,2,108,141,,,,,,,Congenital Heart Defects,
+63,0,2,135,252,,,,,,,Congenital Heart Defects,
+52,1,1,134,201,,,,,,,Congenital Heart Defects,
+48,1,0,122,222,,,,,,,Congenital Heart Defects,
+45,1,0,115,260,,,,,,,Congenital Heart Defects,
+34,1,3,118,182,,,,,,,Congenital Heart Defects,
+57,0,0,128,303,,,,,,,Congenital Heart Defects,
+71,0,2,110,265,,,,,,,Congenital Heart Defects,
+54,1,1,108,309,,,,,,,Congenital Heart Defects,
+52,1,3,118,186,,,,,,,Congenital Heart Defects,
+41,1,1,135,203,,,,,,,Congenital Heart Defects,
+58,1,2,140,211,,,,,,,Congenital Heart Defects,
+35,0,0,138,183,,,,,,,Congenital Heart Defects,
+51,1,2,100,222,,,,,,,Congenital Heart Defects,
+45,0,1,130,234,,,,,,,Congenital Heart Defects,
+44,1,1,120,220,,,,,,,Congenital Heart Defects,
+62,0,0,124,209,,,,,,,Congenital Heart Defects,
+54,1,2,120,258,,,,,,,Congenital Heart Defects,
+51,1,2,94,227,,,,,,,Congenital Heart Defects,
+29,1,1,130,204,,,,,,,Congenital Heart Defects,
+51,1,0,140,261,,,,,,,Congenital Heart Defects,
+43,0,2,122,213,,,,,,,Congenital Heart Defects,
+55,0,1,135,250,,,,,,,Congenital Heart Defects,
+51,1,2,125,245,,,,,,,Congenital Heart Defects,
+59,1,1,140,221,,,,,,,Congenital Heart Defects,
+52,1,1,128,205,,,,,,,Congenital Heart Defects,
+58,1,2,105,240,,,,,,,Congenital Heart Defects,
+41,1,2,112,250,,,,,,,Congenital Heart Defects,
+45,1,1,128,308,,,,,,,Congenital Heart Defects,
+60,0,2,102,318,,,,,,,Congenital Heart Defects,
+52,1,3,152,298,,,,,,,Congenital Heart Defects,
+42,0,0,102,265,,,,,,,Congenital Heart Defects,
+67,0,2,115,564,,,,,,,Congenital Heart Defects,
+68,1,2,118,277,,,,,,,Congenital Heart Defects,
+46,1,1,101,197,,,,,,,Congenital Heart Defects,
+54,0,2,110,214,,,,,,,Congenital Heart Defects,
+58,0,0,100,248,,,,,,,Congenital Heart Defects,
+48,1,2,124,255,,,,,,,Congenital Heart Defects,
+57,1,0,132,207,,,,,,,Congenital Heart Defects,
+52,1,2,138,223,,,,,,,Congenital Heart Defects,
+54,0,1,132,288,,,,,,,Congenital Heart Defects,
+45,0,1,112,160,,,,,,,Congenital Heart Defects,
+53,1,0,142,226,,,,,,,Congenital Heart Defects,
+62,0,0,140,394,,,,,,,Congenital Heart Defects,
+52,1,0,108,233,,,,,,,Congenital Heart Defects,
+43,1,2,130,315,,,,,,,Congenital Heart Defects,
+53,1,2,130,246,,,,,,,Congenital Heart Defects,
+42,1,3,148,244,,,,,,,Congenital Heart Defects,
+59,1,3,178,270,,,,,,,Congenital Heart Defects,
+63,0,1,140,195,,,,,,,Congenital Heart Defects,
+42,1,2,120,240,,,,,,,Congenital Heart Defects,
+50,1,2,129,196,,,,,,,Congenital Heart Defects,
+68,0,2,120,211,,,,,,,Congenital Heart Defects,
+69,1,3,160,234,,,,,,,Congenital Heart Defects,
+45,0,0,138,236,,,,,,,Congenital Heart Defects,
+50,0,1,120,244,,,,,,,Congenital Heart Defects,
+50,0,0,110,254,,,,,,,Congenital Heart Defects,
+64,0,0,180,325,,,,,,,Congenital Heart Defects,
+57,1,2,150,126,,,,,,,Congenital Heart Defects,
+64,0,2,140,313,,,,,,,Congenital Heart Defects,
+43,1,0,110,211,,,,,,,Congenital Heart Defects,
+55,1,1,130,262,,,,,,,Congenital Heart Defects,
+37,0,2,120,215,,,,,,,Congenital Heart Defects,
+41,1,2,130,214,,,,,,,Congenital Heart Defects,
+56,1,3,120,193,,,,,,,Congenital Heart Defects,
+46,0,1,105,204,,,,,,,Congenital Heart Defects,
+46,0,0,138,243,,,,,,,Congenital Heart Defects,
+64,0,0,130,303,,,,,,,Congenital Heart Defects,
+59,1,0,138,271,,,,,,,Congenital Heart Defects,
+41,0,2,112,268,,,,,,,Congenital Heart Defects,
+54,0,2,108,267,,,,,,,Congenital Heart Defects,
+39,0,2,94,199,,,,,,,Congenital Heart Defects,
+34,0,1,118,210,,,,,,,Congenital Heart Defects,
+47,1,0,112,204,,,,,,,Congenital Heart Defects,
+67,0,2,152,277,,,,,,,Congenital Heart Defects,
+52,0,2,136,196,,,,,,,Congenital Heart Defects,
+74,0,1,120,269,,,,,,,Congenital Heart Defects,
+54,0,2,160,201,,,,,,,Congenital Heart Defects,
+49,0,1,134,271,,,,,,,Congenital Heart Defects,
+42,1,1,120,295,,,,,,,Congenital Heart Defects,
+41,1,1,110,235,,,,,,,Congenital Heart Defects,
+41,0,1,126,306,,,,,,,Congenital Heart Defects,
+49,0,0,130,269,,,,,,,Congenital Heart Defects,
+60,0,2,120,178,,,,,,,Congenital Heart Defects,
+62,1,1,128,208,,,,,,,Congenital Heart Defects,
+57,1,0,110,201,,,,,,,Congenital Heart Defects,
+64,1,0,128,263,,,,,,,Congenital Heart Defects,
+51,0,2,120,295,,,,,,,Congenital Heart Defects,
+43,1,0,115,303,,,,,,,Congenital Heart Defects,
+42,0,2,120,209,,,,,,,Congenital Heart Defects,
+67,0,0,106,223,,,,,,,Congenital Heart Defects,
+76,0,2,140,197,,,,,,,Congenital Heart Defects,
+70,1,1,156,245,,,,,,,Congenital Heart Defects,
+44,0,2,118,242,,,,,,,Congenital Heart Defects,
+60,0,3,150,240,,,,,,,Congenital Heart Defects,
+44,1,2,120,226,,,,,,,Congenital Heart Defects,
+42,1,2,130,180,,,,,,,Congenital Heart Defects,
+66,1,0,160,228,,,,,,,Congenital Heart Defects,
+71,0,0,112,149,,,,,,,Congenital Heart Defects,
+64,1,3,170,227,,,,,,,Congenital Heart Defects,
+66,0,2,146,278,,,,,,,Congenital Heart Defects,
+39,0,2,138,220,,,,,,,Congenital Heart Defects,
+58,0,0,130,197,,,,,,,Congenital Heart Defects,
+47,1,2,130,253,,,,,,,Congenital Heart Defects,
+35,1,1,122,192,,,,,,,Congenital Heart Defects,
+58,1,1,125,220,,,,,,,Congenital Heart Defects,
+56,1,1,130,221,,,,,,,Congenital Heart Defects,
+56,1,1,120,240,,,,,,,Congenital Heart Defects,
+55,0,1,132,342,,,,,,,Congenital Heart Defects,
+41,1,1,120,157,,,,,,,Congenital Heart Defects,
+38,1,2,138,175,,,,,,,Congenital Heart Defects,
+38,1,2,138,175,,,,,,,Congenital Heart Defects,
+67,1,0,160,286,,,,,,,Congenital Heart Defects,
+67,1,0,120,229,,,,,,,Congenital Heart Defects,
+62,0,0,140,268,,,,,,,Congenital Heart Defects,
+63,1,0,130,254,,,,,,,Congenital Heart Defects,
+53,1,0,140,203,,,,,,,Congenital Heart Defects,
+56,1,2,130,256,,,,,,,Congenital Heart Defects,
+48,1,1,110,229,,,,,,,Congenital Heart Defects,
+58,1,1,120,284,,,,,,,Congenital Heart Defects,
+58,1,2,132,224,,,,,,,Congenital Heart Defects,
+60,1,0,130,206,,,,,,,Congenital Heart Defects,
+40,1,0,110,167,,,,,,,Congenital Heart Defects,
+60,1,0,117,230,,,,,,,Congenital Heart Defects,
+64,1,2,140,335,,,,,,,Congenital Heart Defects,
+43,1,0,120,177,,,,,,,Congenital Heart Defects,
+57,1,0,150,276,,,,,,,Congenital Heart Defects,
+55,1,0,132,353,,,,,,,Congenital Heart Defects,
+65,0,0,150,225,,,,,,,Congenital Heart Defects,
+61,0,0,130,330,,,,,,,Congenital Heart Defects,
+58,1,2,112,230,,,,,,,Congenital Heart Defects,
+50,1,0,150,243,,,,,,,Congenital Heart Defects,
+44,1,0,112,290,,,,,,,Congenital Heart Defects,
+60,1,0,130,253,,,,,,,Congenital Heart Defects,
+54,1,0,124,266,,,,,,,Congenital Heart Defects,
+50,1,2,140,233,,,,,,,Congenital Heart Defects,
+41,1,0,110,172,,,,,,,Congenital Heart Defects,
+51,0,0,130,305,,,,,,,Congenital Heart Defects,
+58,1,0,128,216,,,,,,,Congenital Heart Defects,
+54,1,0,120,188,,,,,,,Congenital Heart Defects,
+60,1,0,145,282,,,,,,,Congenital Heart Defects,
+60,1,2,140,185,,,,,,,Congenital Heart Defects,
+59,1,0,170,326,,,,,,,Congenital Heart Defects,
+46,1,2,150,231,,,,,,,Congenital Heart Defects,
+67,1,0,125,254,,,,,,,Congenital Heart Defects,
+62,1,0,120,267,,,,,,,Congenital Heart Defects,
+65,1,0,110,248,,,,,,,Congenital Heart Defects,
+44,1,0,110,197,,,,,,,Congenital Heart Defects,
+60,1,0,125,258,,,,,,,Congenital Heart Defects,
+58,1,0,150,270,,,,,,,Congenital Heart Defects,
+68,1,2,180,274,,,,,,,Congenital Heart Defects,
+62,0,0,160,164,,,,,,,Congenital Heart Defects,
+52,1,0,128,255,,,,,,,Congenital Heart Defects,
+59,1,0,110,239,,,,,,,Congenital Heart Defects,
+60,0,0,150,258,,,,,,,Congenital Heart Defects,
+49,1,2,120,188,,,,,,,Congenital Heart Defects,
+59,1,0,140,177,,,,,,,Congenital Heart Defects,
+57,1,2,128,229,,,,,,,Congenital Heart Defects,
+61,1,0,120,260,,,,,,,Congenital Heart Defects,
+39,1,0,118,219,,,,,,,Congenital Heart Defects,
+61,0,0,145,307,,,,,,,Congenital Heart Defects,
+56,1,0,125,249,,,,,,,Congenital Heart Defects,
+43,0,0,132,341,,,,,,,Congenital Heart Defects,
+62,0,2,130,263,,,,,,,Congenital Heart Defects,
+63,1,0,130,330,,,,,,,Congenital Heart Defects,
+65,1,0,135,254,,,,,,,Congenital Heart Defects,
+48,1,0,130,256,,,,,,,Congenital Heart Defects,
+63,0,0,150,407,,,,,,,Congenital Heart Defects,
+55,1,0,140,217,,,,,,,Congenital Heart Defects,
+65,1,3,138,282,,,,,,,Congenital Heart Defects,
+56,0,0,200,288,,,,,,,Congenital Heart Defects,
+54,1,0,110,239,,,,,,,Congenital Heart Defects,
+70,1,0,145,174,,,,,,,Congenital Heart Defects,
+62,1,1,120,281,,,,,,,Congenital Heart Defects,
+35,1,0,120,198,,,,,,,Congenital Heart Defects,
+59,1,3,170,288,,,,,,,Congenital Heart Defects,
+64,1,2,125,309,,,,,,,Congenital Heart Defects,
+47,1,2,108,243,,,,,,,Congenital Heart Defects,
+57,1,0,165,289,,,,,,,Congenital Heart Defects,
+55,1,0,160,289,,,,,,,Congenital Heart Defects,
+64,1,0,120,246,,,,,,,Congenital Heart Defects,
+70,1,0,130,322,,,,,,,Congenital Heart Defects,
+51,1,0,140,299,,,,,,,Congenital Heart Defects,
+58,1,0,125,300,,,,,,,Congenital Heart Defects,
+60,1,0,140,293,,,,,,,Congenital Heart Defects,
+77,1,0,125,304,,,,,,,Congenital Heart Defects,
+35,1,0,126,282,,,,,,,Congenital Heart Defects,
+70,1,2,160,269,,,,,,,Congenital Heart Defects,
+59,0,0,174,249,,,,,,,Congenital Heart Defects,
+64,1,0,145,212,,,,,,,Congenital Heart Defects,
+57,1,0,152,274,,,,,,,Congenital Heart Defects,
+56,1,0,132,184,,,,,,,Congenital Heart Defects,
+48,1,0,124,274,,,,,,,Congenital Heart Defects,
+56,0,0,134,409,,,,,,,Congenital Heart Defects,
+66,1,1,160,246,,,,,,,Congenital Heart Defects,
+54,1,1,192,283,,,,,,,Congenital Heart Defects,
+69,1,2,140,254,,,,,,,Congenital Heart Defects,
+51,1,0,140,298,,,,,,,Congenital Heart Defects,
+43,1,0,132,247,,,,,,,Congenital Heart Defects,
+62,0,0,138,294,,,,,,,Congenital Heart Defects,
+67,1,0,100,299,,,,,,,Congenital Heart Defects,
+59,1,3,160,273,,,,,,,Congenital Heart Defects,
+45,1,0,142,309,,,,,,,Congenital Heart Defects,
+58,1,0,128,259,,,,,,,Congenital Heart Defects,
+50,1,0,144,200,,,,,,,Congenital Heart Defects,
+62,0,0,150,244,,,,,,,Congenital Heart Defects,
+38,1,3,120,231,,,,,,,Congenital Heart Defects,
+66,0,0,178,228,,,,,,,Congenital Heart Defects,
+52,1,0,112,230,,,,,,,Congenital Heart Defects,
+53,1,0,123,282,,,,,,,Congenital Heart Defects,
+63,0,0,108,269,,,,,,,Congenital Heart Defects,
+54,1,0,110,206,,,,,,,Congenital Heart Defects,
+66,1,0,112,212,,,,,,,Congenital Heart Defects,
+55,0,0,180,327,,,,,,,Congenital Heart Defects,
+49,1,2,118,149,,,,,,,Congenital Heart Defects,
+54,1,0,122,286,,,,,,,Congenital Heart Defects,
+56,1,0,130,283,,,,,,,Congenital Heart Defects,
+46,1,0,120,249,,,,,,,Congenital Heart Defects,
+61,1,3,134,234,,,,,,,Congenital Heart Defects,
+67,1,0,120,237,,,,,,,Congenital Heart Defects,
+58,1,0,100,234,,,,,,,Congenital Heart Defects,
+47,1,0,110,275,,,,,,,Congenital Heart Defects,
+52,1,0,125,212,,,,,,,Congenital Heart Defects,
+58,1,0,146,218,,,,,,,Congenital Heart Defects,
+57,1,1,124,261,,,,,,,Congenital Heart Defects,
+58,0,1,136,319,,,,,,,Congenital Heart Defects,
+61,1,0,138,166,,,,,,,Congenital Heart Defects,
+42,1,0,136,315,,,,,,,Congenital Heart Defects,
+52,1,0,128,204,,,,,,,Congenital Heart Defects,
+59,1,2,126,218,,,,,,,Congenital Heart Defects,
+40,1,0,152,223,,,,,,,Congenital Heart Defects,
+61,1,0,140,207,,,,,,,Congenital Heart Defects,
+46,1,0,140,311,,,,,,,Congenital Heart Defects,
+59,1,3,134,204,,,,,,,Congenital Heart Defects,
+57,1,1,154,232,,,,,,,Congenital Heart Defects,
+57,1,0,110,335,,,,,,,Congenital Heart Defects,
+55,0,0,128,205,,,,,,,Congenital Heart Defects,
+61,1,0,148,203,,,,,,,Congenital Heart Defects,
+58,1,0,114,318,,,,,,,Congenital Heart Defects,
+58,0,0,170,225,,,,,,,Congenital Heart Defects,
+67,1,2,152,212,,,,,,,Congenital Heart Defects,
+44,1,0,120,169,,,,,,,Congenital Heart Defects,
+63,1,0,140,187,,,,,,,Congenital Heart Defects,
+63,0,0,124,197,,,,,,,Congenital Heart Defects,
+59,1,0,164,176,,,,,,,Congenital Heart Defects,
+57,0,0,140,241,,,,,,,Congenital Heart Defects,
+45,1,3,110,264,,,,,,,Congenital Heart Defects,
+68,1,0,144,193,,,,,,,Congenital Heart Defects,
+57,1,0,130,131,,,,,,,Congenital Heart Defects,
+57,0,1,130,236,,,,,,,Congenital Heart Defects,
+63,1,3,,,,,,,,,Rheumatic Heart Disease,0
+37,1,2,,,,,,,,,Rheumatic Heart Disease,1
+41,0,1,,,,,,,,,Rheumatic Heart Disease,0
+56,1,1,,,,,,,,,Rheumatic Heart Disease,1
+57,0,0,,,,,,,,,Rheumatic Heart Disease,1
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+56,0,1,,,,,,,,,Rheumatic Heart Disease,0
+44,1,1,,,,,,,,,Rheumatic Heart Disease,1
+52,1,2,,,,,,,,,Rheumatic Heart Disease,1
+57,1,2,,,,,,,,,Rheumatic Heart Disease,1
+54,1,0,,,,,,,,,Rheumatic Heart Disease,1
+48,0,2,,,,,,,,,Rheumatic Heart Disease,1
+49,1,1,,,,,,,,,Rheumatic Heart Disease,1
+64,1,3,,,,,,,,,Rheumatic Heart Disease,0
+58,0,3,,,,,,,,,Rheumatic Heart Disease,0
+50,0,2,,,,,,,,,Rheumatic Heart Disease,1
+58,0,2,,,,,,,,,Rheumatic Heart Disease,1
+66,0,3,,,,,,,,,Rheumatic Heart Disease,1
+43,1,0,,,,,,,,,Rheumatic Heart Disease,1
+69,0,3,,,,,,,,,Rheumatic Heart Disease,1
+59,1,0,,,,,,,,,Rheumatic Heart Disease,1
+44,1,2,,,,,,,,,Rheumatic Heart Disease,1
+42,1,0,,,,,,,,,Rheumatic Heart Disease,1
+61,1,2,,,,,,,,,Rheumatic Heart Disease,1
+40,1,3,,,,,,,,,Rheumatic Heart Disease,1
+71,0,1,,,,,,,,,Rheumatic Heart Disease,1
+59,1,2,,,,,,,,,Rheumatic Heart Disease,1
+51,1,2,,,,,,,,,Rheumatic Heart Disease,1
+65,0,2,,,,,,,,,Rheumatic Heart Disease,0
+53,1,2,,,,,,,,,Rheumatic Heart Disease,0
+41,0,1,,,,,,,,,Rheumatic Heart Disease,1
+65,1,0,,,,,,,,,Rheumatic Heart Disease,1
+44,1,1,,,,,,,,,Rheumatic Heart Disease,0
+54,1,2,,,,,,,,,Rheumatic Heart Disease,0
+51,1,3,,,,,,,,,Rheumatic Heart Disease,0
+46,0,2,,,,,,,,,Rheumatic Heart Disease,0
+54,0,2,,,,,,,,,Rheumatic Heart Disease,1
+54,1,2,,,,,,,,,Rheumatic Heart Disease,0
+65,0,2,,,,,,,,,Rheumatic Heart Disease,1
+65,0,2,,,,,,,,,Rheumatic Heart Disease,0
+51,0,2,,,,,,,,,Rheumatic Heart Disease,0
+48,1,1,,,,,,,,,Rheumatic Heart Disease,0
+45,1,0,,,,,,,,,Rheumatic Heart Disease,0
+53,0,0,,,,,,,,,Rheumatic Heart Disease,0
+39,1,2,,,,,,,,,Rheumatic Heart Disease,0
+52,1,1,,,,,,,,,Rheumatic Heart Disease,1
+44,1,2,,,,,,,,,Rheumatic Heart Disease,0
+47,1,2,,,,,,,,,Rheumatic Heart Disease,0
+53,0,2,,,,,,,,,Rheumatic Heart Disease,0
+53,0,0,,,,,,,,,Rheumatic Heart Disease,0
+51,0,2,,,,,,,,,Rheumatic Heart Disease,0
+66,1,0,,,,,,,,,Rheumatic Heart Disease,0
+62,1,2,,,,,,,,,Rheumatic Heart Disease,1
+44,0,2,,,,,,,,,Rheumatic Heart Disease,1
+63,0,2,,,,,,,,,Rheumatic Heart Disease,0
+52,1,1,,,,,,,,,Rheumatic Heart Disease,1
+48,1,0,,,,,,,,,Rheumatic Heart Disease,0
+45,1,0,,,,,,,,,Rheumatic Heart Disease,0
+34,1,3,,,,,,,,,Rheumatic Heart Disease,0
+57,0,0,,,,,,,,,Rheumatic Heart Disease,0
+71,0,2,,,,,,,,,Rheumatic Heart Disease,0
+54,1,1,,,,,,,,,Rheumatic Heart Disease,1
+52,1,3,,,,,,,,,Rheumatic Heart Disease,0
+41,1,1,,,,,,,,,Rheumatic Heart Disease,1
+58,1,2,,,,,,,,,Rheumatic Heart Disease,0
+35,0,0,,,,,,,,,Rheumatic Heart Disease,1
+51,1,2,,,,,,,,,Rheumatic Heart Disease,1
+45,0,1,,,,,,,,,Rheumatic Heart Disease,0
+44,1,1,,,,,,,,,Rheumatic Heart Disease,1
+62,0,0,,,,,,,,,Rheumatic Heart Disease,1
+54,1,2,,,,,,,,,Rheumatic Heart Disease,0
+51,1,2,,,,,,,,,Rheumatic Heart Disease,1
+29,1,1,,,,,,,,,Rheumatic Heart Disease,0
+51,1,0,,,,,,,,,Rheumatic Heart Disease,0
+43,0,2,,,,,,,,,Rheumatic Heart Disease,1
+55,0,1,,,,,,,,,Rheumatic Heart Disease,0
+51,1,2,,,,,,,,,Rheumatic Heart Disease,0
+59,1,1,,,,,,,,,Rheumatic Heart Disease,1
+52,1,1,,,,,,,,,Rheumatic Heart Disease,1
+58,1,2,,,,,,,,,Rheumatic Heart Disease,0
+41,1,2,,,,,,,,,Rheumatic Heart Disease,1
+45,1,1,,,,,,,,,Rheumatic Heart Disease,0
+60,0,2,,,,,,,,,Rheumatic Heart Disease,1
+52,1,3,,,,,,,,,Rheumatic Heart Disease,1
+42,0,0,,,,,,,,,Rheumatic Heart Disease,0
+67,0,2,,,,,,,,,Rheumatic Heart Disease,0
+68,1,2,,,,,,,,,Rheumatic Heart Disease,1
+46,1,1,,,,,,,,,Rheumatic Heart Disease,1
+54,0,2,,,,,,,,,Rheumatic Heart Disease,1
+58,0,0,,,,,,,,,Rheumatic Heart Disease,0
+48,1,2,,,,,,,,,Rheumatic Heart Disease,1
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+52,1,2,,,,,,,,,Rheumatic Heart Disease,1
+54,0,1,,,,,,,,,Rheumatic Heart Disease,0
+45,0,1,,,,,,,,,Rheumatic Heart Disease,1
+53,1,0,,,,,,,,,Rheumatic Heart Disease,0
+62,0,0,,,,,,,,,Rheumatic Heart Disease,0
+52,1,0,,,,,,,,,Rheumatic Heart Disease,1
+43,1,2,,,,,,,,,Rheumatic Heart Disease,1
+53,1,2,,,,,,,,,Rheumatic Heart Disease,0
+42,1,3,,,,,,,,,Rheumatic Heart Disease,0
+59,1,3,,,,,,,,,Rheumatic Heart Disease,0
+63,0,1,,,,,,,,,Rheumatic Heart Disease,1
+42,1,2,,,,,,,,,Rheumatic Heart Disease,1
+50,1,2,,,,,,,,,Rheumatic Heart Disease,1
+68,0,2,,,,,,,,,Rheumatic Heart Disease,0
+69,1,3,,,,,,,,,Rheumatic Heart Disease,0
+45,0,0,,,,,,,,,Rheumatic Heart Disease,0
+50,0,1,,,,,,,,,Rheumatic Heart Disease,1
+50,0,0,,,,,,,,,Rheumatic Heart Disease,0
+64,0,0,,,,,,,,,Rheumatic Heart Disease,1
+57,1,2,,,,,,,,,Rheumatic Heart Disease,1
+64,0,2,,,,,,,,,Rheumatic Heart Disease,1
+43,1,0,,,,,,,,,Rheumatic Heart Disease,1
+55,1,1,,,,,,,,,Rheumatic Heart Disease,1
+37,0,2,,,,,,,,,Rheumatic Heart Disease,1
+41,1,2,,,,,,,,,Rheumatic Heart Disease,0
+56,1,3,,,,,,,,,Rheumatic Heart Disease,0
+46,0,1,,,,,,,,,Rheumatic Heart Disease,1
+46,0,0,,,,,,,,,Rheumatic Heart Disease,0
+64,0,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,0,,,,,,,,,Rheumatic Heart Disease,0
+41,0,2,,,,,,,,,Rheumatic Heart Disease,0
+54,0,2,,,,,,,,,Rheumatic Heart Disease,0
+39,0,2,,,,,,,,,Rheumatic Heart Disease,1
+34,0,1,,,,,,,,,Rheumatic Heart Disease,1
+47,1,0,,,,,,,,,Rheumatic Heart Disease,1
+67,0,2,,,,,,,,,Rheumatic Heart Disease,1
+52,0,2,,,,,,,,,Rheumatic Heart Disease,0
+74,0,1,,,,,,,,,Rheumatic Heart Disease,0
+54,0,2,,,,,,,,,Rheumatic Heart Disease,1
+49,0,1,,,,,,,,,Rheumatic Heart Disease,1
+42,1,1,,,,,,,,,Rheumatic Heart Disease,1
+41,1,1,,,,,,,,,Rheumatic Heart Disease,1
+41,0,1,,,,,,,,,Rheumatic Heart Disease,1
+49,0,0,,,,,,,,,Rheumatic Heart Disease,1
+60,0,2,,,,,,,,,Rheumatic Heart Disease,1
+62,1,1,,,,,,,,,Rheumatic Heart Disease,0
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+64,1,0,,,,,,,,,Rheumatic Heart Disease,1
+51,0,2,,,,,,,,,Rheumatic Heart Disease,0
+43,1,0,,,,,,,,,Rheumatic Heart Disease,1
+42,0,2,,,,,,,,,Rheumatic Heart Disease,1
+67,0,0,,,,,,,,,Rheumatic Heart Disease,1
+76,0,2,,,,,,,,,Rheumatic Heart Disease,2
+70,1,1,,,,,,,,,Rheumatic Heart Disease,0
+44,0,2,,,,,,,,,Rheumatic Heart Disease,1
+60,0,3,,,,,,,,,Rheumatic Heart Disease,1
+44,1,2,,,,,,,,,Rheumatic Heart Disease,1
+42,1,2,,,,,,,,,Rheumatic Heart Disease,1
+66,1,0,,,,,,,,,Rheumatic Heart Disease,0
+71,0,0,,,,,,,,,Rheumatic Heart Disease,1
+64,1,3,,,,,,,,,Rheumatic Heart Disease,0
+66,0,2,,,,,,,,,Rheumatic Heart Disease,0
+39,0,2,,,,,,,,,Rheumatic Heart Disease,1
+58,0,0,,,,,,,,,Rheumatic Heart Disease,1
+47,1,2,,,,,,,,,Rheumatic Heart Disease,1
+35,1,1,,,,,,,,,Rheumatic Heart Disease,1
+58,1,1,,,,,,,,,Rheumatic Heart Disease,1
+56,1,1,,,,,,,,,Rheumatic Heart Disease,0
+56,1,1,,,,,,,,,Rheumatic Heart Disease,1
+55,0,1,,,,,,,,,Rheumatic Heart Disease,1
+41,1,1,,,,,,,,,Rheumatic Heart Disease,1
+38,1,2,,,,,,,,,Rheumatic Heart Disease,1
+38,1,2,,,,,,,,,Rheumatic Heart Disease,1
+67,1,0,,,,,,,,,Rheumatic Heart Disease,0
+67,1,0,,,,,,,,,Rheumatic Heart Disease,0
+62,0,0,,,,,,,,,Rheumatic Heart Disease,0
+63,1,0,,,,,,,,,Rheumatic Heart Disease,0
+53,1,0,,,,,,,,,Rheumatic Heart Disease,0
+56,1,2,,,,,,,,,Rheumatic Heart Disease,0
+48,1,1,,,,,,,,,Rheumatic Heart Disease,1
+58,1,1,,,,,,,,,Rheumatic Heart Disease,0
+58,1,2,,,,,,,,,Rheumatic Heart Disease,0
+60,1,0,,,,,,,,,Rheumatic Heart Disease,0
+40,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,1,0,,,,,,,,,Rheumatic Heart Disease,1
+64,1,2,,,,,,,,,Rheumatic Heart Disease,1
+43,1,0,,,,,,,,,Rheumatic Heart Disease,0
+57,1,0,,,,,,,,,Rheumatic Heart Disease,0
+55,1,0,,,,,,,,,Rheumatic Heart Disease,1
+65,0,0,,,,,,,,,Rheumatic Heart Disease,0
+61,0,0,,,,,,,,,Rheumatic Heart Disease,0
+58,1,2,,,,,,,,,Rheumatic Heart Disease,0
+50,1,0,,,,,,,,,Rheumatic Heart Disease,0
+44,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,1,0,,,,,,,,,Rheumatic Heart Disease,1
+54,1,0,,,,,,,,,Rheumatic Heart Disease,0
+50,1,2,,,,,,,,,Rheumatic Heart Disease,1
+41,1,0,,,,,,,,,Rheumatic Heart Disease,0
+51,0,0,,,,,,,,,Rheumatic Heart Disease,1
+58,1,0,,,,,,,,,Rheumatic Heart Disease,0
+54,1,0,,,,,,,,,Rheumatic Heart Disease,1
+60,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,1,2,,,,,,,,,Rheumatic Heart Disease,0
+59,1,0,,,,,,,,,Rheumatic Heart Disease,0
+46,1,2,,,,,,,,,Rheumatic Heart Disease,1
+67,1,0,,,,,,,,,Rheumatic Heart Disease,1
+62,1,0,,,,,,,,,Rheumatic Heart Disease,1
+65,1,0,,,,,,,,,Rheumatic Heart Disease,0
+44,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,1,0,,,,,,,,,Rheumatic Heart Disease,0
+58,1,0,,,,,,,,,Rheumatic Heart Disease,0
+68,1,2,,,,,,,,,Rheumatic Heart Disease,0
+62,0,0,,,,,,,,,Rheumatic Heart Disease,0
+52,1,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,0,0,,,,,,,,,Rheumatic Heart Disease,0
+49,1,2,,,,,,,,,Rheumatic Heart Disease,1
+59,1,0,,,,,,,,,Rheumatic Heart Disease,1
+57,1,2,,,,,,,,,Rheumatic Heart Disease,0
+61,1,0,,,,,,,,,Rheumatic Heart Disease,1
+39,1,0,,,,,,,,,Rheumatic Heart Disease,1
+61,0,0,,,,,,,,,Rheumatic Heart Disease,0
+56,1,0,,,,,,,,,Rheumatic Heart Disease,0
+43,0,0,,,,,,,,,Rheumatic Heart Disease,0
+62,0,2,,,,,,,,,Rheumatic Heart Disease,1
+63,1,0,,,,,,,,,Rheumatic Heart Disease,0
+65,1,0,,,,,,,,,Rheumatic Heart Disease,0
+48,1,0,,,,,,,,,Rheumatic Heart Disease,0
+63,0,0,,,,,,,,,Rheumatic Heart Disease,0
+55,1,0,,,,,,,,,Rheumatic Heart Disease,1
+65,1,3,,,,,,,,,Rheumatic Heart Disease,0
+56,0,0,,,,,,,,,Rheumatic Heart Disease,0
+54,1,0,,,,,,,,,Rheumatic Heart Disease,1
+70,1,0,,,,,,,,,Rheumatic Heart Disease,1
+62,1,1,,,,,,,,,Rheumatic Heart Disease,0
+35,1,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,3,,,,,,,,,Rheumatic Heart Disease,0
+64,1,2,,,,,,,,,Rheumatic Heart Disease,1
+47,1,2,,,,,,,,,Rheumatic Heart Disease,1
+57,1,0,,,,,,,,,Rheumatic Heart Disease,0
+55,1,0,,,,,,,,,Rheumatic Heart Disease,0
+64,1,0,,,,,,,,,Rheumatic Heart Disease,0
+70,1,0,,,,,,,,,Rheumatic Heart Disease,0
+51,1,0,,,,,,,,,Rheumatic Heart Disease,1
+58,1,0,,,,,,,,,Rheumatic Heart Disease,0
+60,1,0,,,,,,,,,Rheumatic Heart Disease,0
+77,1,0,,,,,,,,,Rheumatic Heart Disease,0
+35,1,0,,,,,,,,,Rheumatic Heart Disease,0
+70,1,2,,,,,,,,,Rheumatic Heart Disease,1
+59,0,0,,,,,,,,,Rheumatic Heart Disease,1
+64,1,0,,,,,,,,,Rheumatic Heart Disease,0
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+56,1,0,,,,,,,,,Rheumatic Heart Disease,0
+48,1,0,,,,,,,,,Rheumatic Heart Disease,0
+56,0,0,,,,,,,,,Rheumatic Heart Disease,0
+66,1,1,,,,,,,,,Rheumatic Heart Disease,1
+54,1,1,,,,,,,,,Rheumatic Heart Disease,0
+69,1,2,,,,,,,,,Rheumatic Heart Disease,0
+51,1,0,,,,,,,,,Rheumatic Heart Disease,1
+43,1,0,,,,,,,,,Rheumatic Heart Disease,0
+62,0,0,,,,,,,,,Rheumatic Heart Disease,1
+67,1,0,,,,,,,,,Rheumatic Heart Disease,0
+59,1,3,,,,,,,,,Rheumatic Heart Disease,0
+45,1,0,,,,,,,,,Rheumatic Heart Disease,0
+58,1,0,,,,,,,,,Rheumatic Heart Disease,0
+50,1,0,,,,,,,,,Rheumatic Heart Disease,0
+62,0,0,,,,,,,,,Rheumatic Heart Disease,1
+38,1,3,,,,,,,,,Rheumatic Heart Disease,1
+66,0,0,,,,,,,,,Rheumatic Heart Disease,1
+52,1,0,,,,,,,,,Rheumatic Heart Disease,1
+53,1,0,,,,,,,,,Rheumatic Heart Disease,1
+63,0,0,,,,,,,,,Rheumatic Heart Disease,1
+54,1,0,,,,,,,,,Rheumatic Heart Disease,0
+66,1,0,,,,,,,,,Rheumatic Heart Disease,0
+55,0,0,,,,,,,,,Rheumatic Heart Disease,2
+49,1,2,,,,,,,,,Rheumatic Heart Disease,0
+54,1,0,,,,,,,,,Rheumatic Heart Disease,0
+56,1,0,,,,,,,,,Rheumatic Heart Disease,0
+46,1,0,,,,,,,,,Rheumatic Heart Disease,0
+61,1,3,,,,,,,,,Rheumatic Heart Disease,1
+67,1,0,,,,,,,,,Rheumatic Heart Disease,1
+58,1,0,,,,,,,,,Rheumatic Heart Disease,1
+47,1,0,,,,,,,,,Rheumatic Heart Disease,0
+52,1,0,,,,,,,,,Rheumatic Heart Disease,1
+58,1,0,,,,,,,,,Rheumatic Heart Disease,1
+57,1,1,,,,,,,,,Rheumatic Heart Disease,1
+58,0,1,,,,,,,,,Rheumatic Heart Disease,0
+61,1,0,,,,,,,,,Rheumatic Heart Disease,0
+42,1,0,,,,,,,,,Rheumatic Heart Disease,1
+52,1,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,2,,,,,,,,,Rheumatic Heart Disease,1
+40,1,0,,,,,,,,,Rheumatic Heart Disease,1
+61,1,0,,,,,,,,,Rheumatic Heart Disease,0
+46,1,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,3,,,,,,,,,Rheumatic Heart Disease,1
+57,1,1,,,,,,,,,Rheumatic Heart Disease,0
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+55,0,0,,,,,,,,,Rheumatic Heart Disease,2
+61,1,0,,,,,,,,,Rheumatic Heart Disease,1
+58,1,0,,,,,,,,,Rheumatic Heart Disease,2
+58,0,0,,,,,,,,,Rheumatic Heart Disease,0
+67,1,2,,,,,,,,,Rheumatic Heart Disease,0
+44,1,0,,,,,,,,,Rheumatic Heart Disease,1
+63,1,0,,,,,,,,,Rheumatic Heart Disease,0
+63,0,0,,,,,,,,,Rheumatic Heart Disease,1
+59,1,0,,,,,,,,,Rheumatic Heart Disease,0
+57,0,0,,,,,,,,,Rheumatic Heart Disease,1
+45,1,3,,,,,,,,,Rheumatic Heart Disease,1
+68,1,0,,,,,,,,,Rheumatic Heart Disease,1
+57,1,0,,,,,,,,,Rheumatic Heart Disease,1
+57,0,1,,,,,,,,,Rheumatic Heart Disease,0
+63,1,,145,,,150,,2.3,,,Heart Muscle Disease (Cardiomyopathy),
+37,1,,130,,,187,,3.5,,,Heart Muscle Disease (Cardiomyopathy),
+41,0,,130,,,172,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,120,,,178,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+57,0,,120,,,163,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,140,,,148,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+56,0,,140,,,153,,1.3,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,120,,,173,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,172,,,162,,0.5,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,150,,,174,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,140,,,160,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+48,0,,130,,,139,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+49,1,,130,,,171,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,110,,,144,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,150,,,162,,1,,,Heart Muscle Disease (Cardiomyopathy),
+50,0,,120,,,158,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,120,,,172,,0,,,Heart Muscle Disease (Cardiomyopathy),
+66,0,,150,,,114,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,150,,,171,,1.5,,,Heart Muscle Disease (Cardiomyopathy),
+69,0,,140,,,151,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,135,,,161,,0.5,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,130,,,179,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,140,,,178,,0,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,150,,,137,,1,,,Heart Muscle Disease (Cardiomyopathy),
+40,1,,140,,,178,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+71,0,,160,,,162,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,150,,,157,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,110,,,123,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+65,0,,140,,,157,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+53,1,,130,,,152,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+41,0,,105,,,168,,0,,,Heart Muscle Disease (Cardiomyopathy),
+65,1,,120,,,140,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,130,,,188,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,125,,,152,,0.5,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,125,,,125,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+46,0,,142,,,160,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+54,0,,135,,,170,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,150,,,165,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+65,0,,155,,,148,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+65,0,,160,,,151,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+51,0,,140,,,142,,1.5,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,130,,,180,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+45,1,,104,,,148,,3,,,Heart Muscle Disease (Cardiomyopathy),
+53,0,,130,,,143,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+39,1,,140,,,182,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,120,,,172,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,140,,,180,,0,,,Heart Muscle Disease (Cardiomyopathy),
+47,1,,138,,,156,,0,,,Heart Muscle Disease (Cardiomyopathy),
+53,0,,128,,,115,,0,,,Heart Muscle Disease (Cardiomyopathy),
+53,0,,138,,,160,,0,,,Heart Muscle Disease (Cardiomyopathy),
+51,0,,130,,,149,,0.5,,,Heart Muscle Disease (Cardiomyopathy),
+66,1,,120,,,151,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+62,1,,130,,,146,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+44,0,,108,,,175,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+63,0,,135,,,172,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,134,,,158,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,122,,,186,,0,,,Heart Muscle Disease (Cardiomyopathy),
+45,1,,115,,,185,,0,,,Heart Muscle Disease (Cardiomyopathy),
+34,1,,118,,,174,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,0,,128,,,159,,0,,,Heart Muscle Disease (Cardiomyopathy),
+71,0,,110,,,130,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,108,,,156,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,118,,,190,,0,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,135,,,132,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,140,,,165,,0,,,Heart Muscle Disease (Cardiomyopathy),
+35,0,,138,,,182,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,100,,,143,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+45,0,,130,,,175,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,120,,,170,,0,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,124,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,120,,,147,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,94,,,154,,0,,,Heart Muscle Disease (Cardiomyopathy),
+29,1,,130,,,202,,0,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,140,,,186,,0,,,Heart Muscle Disease (Cardiomyopathy),
+43,0,,122,,,165,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+55,0,,135,,,161,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,125,,,166,,2.4,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,140,,,164,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,128,,,184,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,105,,,154,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,112,,,179,,0,,,Heart Muscle Disease (Cardiomyopathy),
+45,1,,128,,,170,,0,,,Heart Muscle Disease (Cardiomyopathy),
+60,0,,102,,,160,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,152,,,178,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+42,0,,102,,,122,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+67,0,,115,,,160,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+68,1,,118,,,151,,1,,,Heart Muscle Disease (Cardiomyopathy),
+46,1,,101,,,156,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,0,,110,,,158,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,100,,,122,,1,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,124,,,175,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,132,,,168,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,138,,,169,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,0,,132,,,159,,0,,,Heart Muscle Disease (Cardiomyopathy),
+45,0,,112,,,138,,0,,,Heart Muscle Disease (Cardiomyopathy),
+53,1,,142,,,111,,0,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,140,,,157,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,108,,,147,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,130,,,162,,1.9,,,Heart Muscle Disease (Cardiomyopathy),
+53,1,,130,,,173,,0,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,148,,,178,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,178,,,145,,4.2,,,Heart Muscle Disease (Cardiomyopathy),
+63,0,,140,,,179,,0,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,120,,,194,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+50,1,,129,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+68,0,,120,,,115,,1.5,,,Heart Muscle Disease (Cardiomyopathy),
+69,1,,160,,,131,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+45,0,,138,,,152,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+50,0,,120,,,162,,1.1,,,Heart Muscle Disease (Cardiomyopathy),
+50,0,,110,,,159,,0,,,Heart Muscle Disease (Cardiomyopathy),
+64,0,,180,,,154,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,150,,,173,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+64,0,,140,,,133,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,110,,,161,,0,,,Heart Muscle Disease (Cardiomyopathy),
+55,1,,130,,,155,,0,,,Heart Muscle Disease (Cardiomyopathy),
+37,0,,120,,,170,,0,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,130,,,168,,2,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,120,,,162,,1.9,,,Heart Muscle Disease (Cardiomyopathy),
+46,0,,105,,,172,,0,,,Heart Muscle Disease (Cardiomyopathy),
+46,0,,138,,,152,,0,,,Heart Muscle Disease (Cardiomyopathy),
+64,0,,130,,,122,,2,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,138,,,182,,0,,,Heart Muscle Disease (Cardiomyopathy),
+41,0,,112,,,172,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,0,,108,,,167,,0,,,Heart Muscle Disease (Cardiomyopathy),
+39,0,,94,,,179,,0,,,Heart Muscle Disease (Cardiomyopathy),
+34,0,,118,,,192,,0.7,,,Heart Muscle Disease (Cardiomyopathy),
+47,1,,112,,,143,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+67,0,,152,,,172,,0,,,Heart Muscle Disease (Cardiomyopathy),
+52,0,,136,,,169,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+74,0,,120,,,121,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+54,0,,160,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+49,0,,134,,,162,,0,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,120,,,162,,0,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,110,,,153,,0,,,Heart Muscle Disease (Cardiomyopathy),
+41,0,,126,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+49,0,,130,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+60,0,,120,,,96,,0,,,Heart Muscle Disease (Cardiomyopathy),
+62,1,,128,,,140,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,110,,,126,,1.5,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,128,,,105,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+51,0,,120,,,157,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,115,,,181,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+42,0,,120,,,173,,0,,,Heart Muscle Disease (Cardiomyopathy),
+67,0,,106,,,142,,0.3,,,Heart Muscle Disease (Cardiomyopathy),
+76,0,,140,,,116,,1.1,,,Heart Muscle Disease (Cardiomyopathy),
+70,1,,156,,,143,,0,,,Heart Muscle Disease (Cardiomyopathy),
+44,0,,118,,,149,,0.3,,,Heart Muscle Disease (Cardiomyopathy),
+60,0,,150,,,171,,0.9,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,120,,,169,,0,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,130,,,150,,0,,,Heart Muscle Disease (Cardiomyopathy),
+66,1,,160,,,138,,2.3,,,Heart Muscle Disease (Cardiomyopathy),
+71,0,,112,,,125,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,170,,,155,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+66,0,,146,,,152,,0,,,Heart Muscle Disease (Cardiomyopathy),
+39,0,,138,,,152,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,130,,,131,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+47,1,,130,,,179,,0,,,Heart Muscle Disease (Cardiomyopathy),
+35,1,,122,,,174,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,125,,,144,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,130,,,163,,0,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,120,,,169,,0,,,Heart Muscle Disease (Cardiomyopathy),
+55,0,,132,,,166,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,120,,,182,,0,,,Heart Muscle Disease (Cardiomyopathy),
+38,1,,138,,,173,,0,,,Heart Muscle Disease (Cardiomyopathy),
+38,1,,138,,,173,,0,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,160,,,108,,1.5,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,120,,,129,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,140,,,160,,3.6,,,Heart Muscle Disease (Cardiomyopathy),
+63,1,,130,,,147,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+53,1,,140,,,155,,3.1,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,130,,,142,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,110,,,168,,1,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,120,,,160,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,132,,,173,,3.2,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,130,,,132,,2.4,,,Heart Muscle Disease (Cardiomyopathy),
+40,1,,110,,,114,,2,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,117,,,160,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,140,,,158,,0,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,120,,,120,,2.5,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,150,,,112,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+55,1,,132,,,132,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+65,0,,150,,,114,,1,,,Heart Muscle Disease (Cardiomyopathy),
+61,0,,130,,,169,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,112,,,165,,2.5,,,Heart Muscle Disease (Cardiomyopathy),
+50,1,,150,,,128,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,112,,,153,,0,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,130,,,144,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,124,,,109,,2.2,,,Heart Muscle Disease (Cardiomyopathy),
+50,1,,140,,,163,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+41,1,,110,,,158,,0,,,Heart Muscle Disease (Cardiomyopathy),
+51,0,,130,,,142,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,128,,,131,,2.2,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,120,,,113,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,145,,,142,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,140,,,155,,3,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,170,,,140,,3.4,,,Heart Muscle Disease (Cardiomyopathy),
+46,1,,150,,,147,,3.6,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,125,,,163,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+62,1,,120,,,99,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+65,1,,110,,,158,,0.6,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,110,,,177,,0,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,125,,,141,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,150,,,111,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+68,1,,180,,,150,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,160,,,145,,6.2,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,128,,,161,,0,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,110,,,142,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+60,0,,150,,,157,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+49,1,,120,,,139,,2,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,140,,,162,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,128,,,150,,0.4,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,120,,,140,,3.6,,,Heart Muscle Disease (Cardiomyopathy),
+39,1,,118,,,140,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+61,0,,145,,,146,,1,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,125,,,144,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+43,0,,132,,,136,,3,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,130,,,97,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+63,1,,130,,,132,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+65,1,,135,,,127,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,130,,,150,,0,,,Heart Muscle Disease (Cardiomyopathy),
+63,0,,150,,,154,,4,,,Heart Muscle Disease (Cardiomyopathy),
+55,1,,140,,,111,,5.6,,,Heart Muscle Disease (Cardiomyopathy),
+65,1,,138,,,174,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+56,0,,200,,,133,,4,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,110,,,126,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+70,1,,145,,,125,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+62,1,,120,,,103,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+35,1,,120,,,130,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,170,,,159,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,125,,,131,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+47,1,,108,,,152,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,165,,,124,,1,,,Heart Muscle Disease (Cardiomyopathy),
+55,1,,160,,,145,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,120,,,96,,2.2,,,Heart Muscle Disease (Cardiomyopathy),
+70,1,,130,,,109,,2.4,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,140,,,173,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,125,,,171,,0,,,Heart Muscle Disease (Cardiomyopathy),
+60,1,,140,,,170,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+77,1,,125,,,162,,0,,,Heart Muscle Disease (Cardiomyopathy),
+35,1,,126,,,156,,0,,,Heart Muscle Disease (Cardiomyopathy),
+70,1,,160,,,112,,2.9,,,Heart Muscle Disease (Cardiomyopathy),
+59,0,,174,,,143,,0,,,Heart Muscle Disease (Cardiomyopathy),
+64,1,,145,,,132,,2,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,152,,,88,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,132,,,105,,2.1,,,Heart Muscle Disease (Cardiomyopathy),
+48,1,,124,,,166,,0.5,,,Heart Muscle Disease (Cardiomyopathy),
+56,0,,134,,,150,,1.9,,,Heart Muscle Disease (Cardiomyopathy),
+66,1,,160,,,120,,0,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,192,,,195,,0,,,Heart Muscle Disease (Cardiomyopathy),
+69,1,,140,,,146,,2,,,Heart Muscle Disease (Cardiomyopathy),
+51,1,,140,,,122,,4.2,,,Heart Muscle Disease (Cardiomyopathy),
+43,1,,132,,,143,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,138,,,106,,1.9,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,100,,,125,,0.9,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,160,,,125,,0,,,Heart Muscle Disease (Cardiomyopathy),
+45,1,,142,,,147,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,128,,,130,,3,,,Heart Muscle Disease (Cardiomyopathy),
+50,1,,144,,,126,,0.9,,,Heart Muscle Disease (Cardiomyopathy),
+62,0,,150,,,154,,1.4,,,Heart Muscle Disease (Cardiomyopathy),
+38,1,,120,,,182,,3.8,,,Heart Muscle Disease (Cardiomyopathy),
+66,0,,178,,,165,,1,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,112,,,160,,0,,,Heart Muscle Disease (Cardiomyopathy),
+53,1,,123,,,95,,2,,,Heart Muscle Disease (Cardiomyopathy),
+63,0,,108,,,169,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,110,,,108,,0,,,Heart Muscle Disease (Cardiomyopathy),
+66,1,,112,,,132,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+55,0,,180,,,117,,3.4,,,Heart Muscle Disease (Cardiomyopathy),
+49,1,,118,,,126,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+54,1,,122,,,116,,3.2,,,Heart Muscle Disease (Cardiomyopathy),
+56,1,,130,,,103,,1.6,,,Heart Muscle Disease (Cardiomyopathy),
+46,1,,120,,,144,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,134,,,145,,2.6,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,120,,,71,,1,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,100,,,156,,0.1,,,Heart Muscle Disease (Cardiomyopathy),
+47,1,,110,,,118,,1,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,125,,,168,,1,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,146,,,105,,2,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,124,,,141,,0.3,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,136,,,152,,0,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,138,,,125,,3.6,,,Heart Muscle Disease (Cardiomyopathy),
+42,1,,136,,,125,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+52,1,,128,,,156,,1,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,126,,,134,,2.2,,,Heart Muscle Disease (Cardiomyopathy),
+40,1,,152,,,181,,0,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,140,,,138,,1.9,,,Heart Muscle Disease (Cardiomyopathy),
+46,1,,140,,,120,,1.8,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,134,,,162,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,154,,,164,,0,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,110,,,143,,3,,,Heart Muscle Disease (Cardiomyopathy),
+55,0,,128,,,130,,2,,,Heart Muscle Disease (Cardiomyopathy),
+61,1,,148,,,161,,0,,,Heart Muscle Disease (Cardiomyopathy),
+58,1,,114,,,140,,4.4,,,Heart Muscle Disease (Cardiomyopathy),
+58,0,,170,,,146,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+67,1,,152,,,150,,0.8,,,Heart Muscle Disease (Cardiomyopathy),
+44,1,,120,,,144,,2.8,,,Heart Muscle Disease (Cardiomyopathy),
+63,1,,140,,,144,,4,,,Heart Muscle Disease (Cardiomyopathy),
+63,0,,124,,,136,,0,,,Heart Muscle Disease (Cardiomyopathy),
+59,1,,164,,,90,,1,,,Heart Muscle Disease (Cardiomyopathy),
+57,0,,140,,,123,,0.2,,,Heart Muscle Disease (Cardiomyopathy),
+45,1,,110,,,132,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+68,1,,144,,,141,,3.4,,,Heart Muscle Disease (Cardiomyopathy),
+57,1,,130,,,115,,1.2,,,Heart Muscle Disease (Cardiomyopathy),
+57,0,,130,,,174,,0,,,Heart Muscle Disease (Cardiomyopathy),
+63,1,3,145,233,1,150,0,2.3,,,Myocardial Infarction (Heart Attack),
+37,1,2,130,250,0,187,0,3.5,,,Myocardial Infarction (Heart Attack),
+41,0,1,130,204,0,172,0,1.4,,,Myocardial Infarction (Heart Attack),
+56,1,1,120,236,0,178,0,0.8,,,Myocardial Infarction (Heart Attack),
+57,0,0,120,354,0,163,1,0.6,,,Myocardial Infarction (Heart Attack),
+57,1,0,140,192,0,148,0,0.4,,,Myocardial Infarction (Heart Attack),
+56,0,1,140,294,0,153,0,1.3,,,Myocardial Infarction (Heart Attack),
+44,1,1,120,263,0,173,0,0,,,Myocardial Infarction (Heart Attack),
+52,1,2,172,199,1,162,0,0.5,,,Myocardial Infarction (Heart Attack),
+57,1,2,150,168,0,174,0,1.6,,,Myocardial Infarction (Heart Attack),
+54,1,0,140,239,0,160,0,1.2,,,Myocardial Infarction (Heart Attack),
+48,0,2,130,275,0,139,0,0.2,,,Myocardial Infarction (Heart Attack),
+49,1,1,130,266,0,171,0,0.6,,,Myocardial Infarction (Heart Attack),
+64,1,3,110,211,0,144,1,1.8,,,Myocardial Infarction (Heart Attack),
+58,0,3,150,283,1,162,0,1,,,Myocardial Infarction (Heart Attack),
+50,0,2,120,219,0,158,0,1.6,,,Myocardial Infarction (Heart Attack),
+58,0,2,120,340,0,172,0,0,,,Myocardial Infarction (Heart Attack),
+66,0,3,150,226,0,114,0,2.6,,,Myocardial Infarction (Heart Attack),
+43,1,0,150,247,0,171,0,1.5,,,Myocardial Infarction (Heart Attack),
+69,0,3,140,239,0,151,0,1.8,,,Myocardial Infarction (Heart Attack),
+59,1,0,135,234,0,161,0,0.5,,,Myocardial Infarction (Heart Attack),
+44,1,2,130,233,0,179,1,0.4,,,Myocardial Infarction (Heart Attack),
+42,1,0,140,226,0,178,0,0,,,Myocardial Infarction (Heart Attack),
+61,1,2,150,243,1,137,1,1,,,Myocardial Infarction (Heart Attack),
+40,1,3,140,199,0,178,1,1.4,,,Myocardial Infarction (Heart Attack),
+71,0,1,160,302,0,162,0,0.4,,,Myocardial Infarction (Heart Attack),
+59,1,2,150,212,1,157,0,1.6,,,Myocardial Infarction (Heart Attack),
+51,1,2,110,175,0,123,0,0.6,,,Myocardial Infarction (Heart Attack),
+65,0,2,140,417,1,157,0,0.8,,,Myocardial Infarction (Heart Attack),
+53,1,2,130,197,1,152,0,1.2,,,Myocardial Infarction (Heart Attack),
+41,0,1,105,198,0,168,0,0,,,Myocardial Infarction (Heart Attack),
+65,1,0,120,177,0,140,0,0.4,,,Myocardial Infarction (Heart Attack),
+44,1,1,130,219,0,188,0,0,,,Myocardial Infarction (Heart Attack),
+54,1,2,125,273,0,152,0,0.5,,,Myocardial Infarction (Heart Attack),
+51,1,3,125,213,0,125,1,1.4,,,Myocardial Infarction (Heart Attack),
+46,0,2,142,177,0,160,1,1.4,,,Myocardial Infarction (Heart Attack),
+54,0,2,135,304,1,170,0,0,,,Myocardial Infarction (Heart Attack),
+54,1,2,150,232,0,165,0,1.6,,,Myocardial Infarction (Heart Attack),
+65,0,2,155,269,0,148,0,0.8,,,Myocardial Infarction (Heart Attack),
+65,0,2,160,360,0,151,0,0.8,,,Myocardial Infarction (Heart Attack),
+51,0,2,140,308,0,142,0,1.5,,,Myocardial Infarction (Heart Attack),
+48,1,1,130,245,0,180,0,0.2,,,Myocardial Infarction (Heart Attack),
+45,1,0,104,208,0,148,1,3,,,Myocardial Infarction (Heart Attack),
+53,0,0,130,264,0,143,0,0.4,,,Myocardial Infarction (Heart Attack),
+39,1,2,140,321,0,182,0,0,,,Myocardial Infarction (Heart Attack),
+52,1,1,120,325,0,172,0,0.2,,,Myocardial Infarction (Heart Attack),
+44,1,2,140,235,0,180,0,0,,,Myocardial Infarction (Heart Attack),
+47,1,2,138,257,0,156,0,0,,,Myocardial Infarction (Heart Attack),
+53,0,2,128,216,0,115,0,0,,,Myocardial Infarction (Heart Attack),
+53,0,0,138,234,0,160,0,0,,,Myocardial Infarction (Heart Attack),
+51,0,2,130,256,0,149,0,0.5,,,Myocardial Infarction (Heart Attack),
+66,1,0,120,302,0,151,0,0.4,,,Myocardial Infarction (Heart Attack),
+62,1,2,130,231,0,146,0,1.8,,,Myocardial Infarction (Heart Attack),
+44,0,2,108,141,0,175,0,0.6,,,Myocardial Infarction (Heart Attack),
+63,0,2,135,252,0,172,0,0,,,Myocardial Infarction (Heart Attack),
+52,1,1,134,201,0,158,0,0.8,,,Myocardial Infarction (Heart Attack),
+48,1,0,122,222,0,186,0,0,,,Myocardial Infarction (Heart Attack),
+45,1,0,115,260,0,185,0,0,,,Myocardial Infarction (Heart Attack),
+34,1,3,118,182,0,174,0,0,,,Myocardial Infarction (Heart Attack),
+57,0,0,128,303,0,159,0,0,,,Myocardial Infarction (Heart Attack),
+71,0,2,110,265,1,130,0,0,,,Myocardial Infarction (Heart Attack),
+54,1,1,108,309,0,156,0,0,,,Myocardial Infarction (Heart Attack),
+52,1,3,118,186,0,190,0,0,,,Myocardial Infarction (Heart Attack),
+41,1,1,135,203,0,132,0,0,,,Myocardial Infarction (Heart Attack),
+58,1,2,140,211,1,165,0,0,,,Myocardial Infarction (Heart Attack),
+35,0,0,138,183,0,182,0,1.4,,,Myocardial Infarction (Heart Attack),
+51,1,2,100,222,0,143,1,1.2,,,Myocardial Infarction (Heart Attack),
+45,0,1,130,234,0,175,0,0.6,,,Myocardial Infarction (Heart Attack),
+44,1,1,120,220,0,170,0,0,,,Myocardial Infarction (Heart Attack),
+62,0,0,124,209,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+54,1,2,120,258,0,147,0,0.4,,,Myocardial Infarction (Heart Attack),
+51,1,2,94,227,0,154,1,0,,,Myocardial Infarction (Heart Attack),
+29,1,1,130,204,0,202,0,0,,,Myocardial Infarction (Heart Attack),
+51,1,0,140,261,0,186,1,0,,,Myocardial Infarction (Heart Attack),
+43,0,2,122,213,0,165,0,0.2,,,Myocardial Infarction (Heart Attack),
+55,0,1,135,250,0,161,0,1.4,,,Myocardial Infarction (Heart Attack),
+51,1,2,125,245,1,166,0,2.4,,,Myocardial Infarction (Heart Attack),
+59,1,1,140,221,0,164,1,0,,,Myocardial Infarction (Heart Attack),
+52,1,1,128,205,1,184,0,0,,,Myocardial Infarction (Heart Attack),
+58,1,2,105,240,0,154,1,0.6,,,Myocardial Infarction (Heart Attack),
+41,1,2,112,250,0,179,0,0,,,Myocardial Infarction (Heart Attack),
+45,1,1,128,308,0,170,0,0,,,Myocardial Infarction (Heart Attack),
+60,0,2,102,318,0,160,0,0,,,Myocardial Infarction (Heart Attack),
+52,1,3,152,298,1,178,0,1.2,,,Myocardial Infarction (Heart Attack),
+42,0,0,102,265,0,122,0,0.6,,,Myocardial Infarction (Heart Attack),
+67,0,2,115,564,0,160,0,1.6,,,Myocardial Infarction (Heart Attack),
+68,1,2,118,277,0,151,0,1,,,Myocardial Infarction (Heart Attack),
+46,1,1,101,197,1,156,0,0,,,Myocardial Infarction (Heart Attack),
+54,0,2,110,214,0,158,0,1.6,,,Myocardial Infarction (Heart Attack),
+58,0,0,100,248,0,122,0,1,,,Myocardial Infarction (Heart Attack),
+48,1,2,124,255,1,175,0,0,,,Myocardial Infarction (Heart Attack),
+57,1,0,132,207,0,168,1,0,,,Myocardial Infarction (Heart Attack),
+52,1,2,138,223,0,169,0,0,,,Myocardial Infarction (Heart Attack),
+54,0,1,132,288,1,159,1,0,,,Myocardial Infarction (Heart Attack),
+45,0,1,112,160,0,138,0,0,,,Myocardial Infarction (Heart Attack),
+53,1,0,142,226,0,111,1,0,,,Myocardial Infarction (Heart Attack),
+62,0,0,140,394,0,157,0,1.2,,,Myocardial Infarction (Heart Attack),
+52,1,0,108,233,1,147,0,0.1,,,Myocardial Infarction (Heart Attack),
+43,1,2,130,315,0,162,0,1.9,,,Myocardial Infarction (Heart Attack),
+53,1,2,130,246,1,173,0,0,,,Myocardial Infarction (Heart Attack),
+42,1,3,148,244,0,178,0,0.8,,,Myocardial Infarction (Heart Attack),
+59,1,3,178,270,0,145,0,4.2,,,Myocardial Infarction (Heart Attack),
+63,0,1,140,195,0,179,0,0,,,Myocardial Infarction (Heart Attack),
+42,1,2,120,240,1,194,0,0.8,,,Myocardial Infarction (Heart Attack),
+50,1,2,129,196,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+68,0,2,120,211,0,115,0,1.5,,,Myocardial Infarction (Heart Attack),
+69,1,3,160,234,1,131,0,0.1,,,Myocardial Infarction (Heart Attack),
+45,0,0,138,236,0,152,1,0.2,,,Myocardial Infarction (Heart Attack),
+50,0,1,120,244,0,162,0,1.1,,,Myocardial Infarction (Heart Attack),
+50,0,0,110,254,0,159,0,0,,,Myocardial Infarction (Heart Attack),
+64,0,0,180,325,0,154,1,0,,,Myocardial Infarction (Heart Attack),
+57,1,2,150,126,1,173,0,0.2,,,Myocardial Infarction (Heart Attack),
+64,0,2,140,313,0,133,0,0.2,,,Myocardial Infarction (Heart Attack),
+43,1,0,110,211,0,161,0,0,,,Myocardial Infarction (Heart Attack),
+55,1,1,130,262,0,155,0,0,,,Myocardial Infarction (Heart Attack),
+37,0,2,120,215,0,170,0,0,,,Myocardial Infarction (Heart Attack),
+41,1,2,130,214,0,168,0,2,,,Myocardial Infarction (Heart Attack),
+56,1,3,120,193,0,162,0,1.9,,,Myocardial Infarction (Heart Attack),
+46,0,1,105,204,0,172,0,0,,,Myocardial Infarction (Heart Attack),
+46,0,0,138,243,0,152,1,0,,,Myocardial Infarction (Heart Attack),
+64,0,0,130,303,0,122,0,2,,,Myocardial Infarction (Heart Attack),
+59,1,0,138,271,0,182,0,0,,,Myocardial Infarction (Heart Attack),
+41,0,2,112,268,0,172,1,0,,,Myocardial Infarction (Heart Attack),
+54,0,2,108,267,0,167,0,0,,,Myocardial Infarction (Heart Attack),
+39,0,2,94,199,0,179,0,0,,,Myocardial Infarction (Heart Attack),
+34,0,1,118,210,0,192,0,0.7,,,Myocardial Infarction (Heart Attack),
+47,1,0,112,204,0,143,0,0.1,,,Myocardial Infarction (Heart Attack),
+67,0,2,152,277,0,172,0,0,,,Myocardial Infarction (Heart Attack),
+52,0,2,136,196,0,169,0,0.1,,,Myocardial Infarction (Heart Attack),
+74,0,1,120,269,0,121,1,0.2,,,Myocardial Infarction (Heart Attack),
+54,0,2,160,201,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+49,0,1,134,271,0,162,0,0,,,Myocardial Infarction (Heart Attack),
+42,1,1,120,295,0,162,0,0,,,Myocardial Infarction (Heart Attack),
+41,1,1,110,235,0,153,0,0,,,Myocardial Infarction (Heart Attack),
+41,0,1,126,306,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+49,0,0,130,269,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+60,0,2,120,178,1,96,0,0,,,Myocardial Infarction (Heart Attack),
+62,1,1,128,208,1,140,0,0,,,Myocardial Infarction (Heart Attack),
+57,1,0,110,201,0,126,1,1.5,,,Myocardial Infarction (Heart Attack),
+64,1,0,128,263,0,105,1,0.2,,,Myocardial Infarction (Heart Attack),
+51,0,2,120,295,0,157,0,0.6,,,Myocardial Infarction (Heart Attack),
+43,1,0,115,303,0,181,0,1.2,,,Myocardial Infarction (Heart Attack),
+42,0,2,120,209,0,173,0,0,,,Myocardial Infarction (Heart Attack),
+67,0,0,106,223,0,142,0,0.3,,,Myocardial Infarction (Heart Attack),
+76,0,2,140,197,0,116,0,1.1,,,Myocardial Infarction (Heart Attack),
+70,1,1,156,245,0,143,0,0,,,Myocardial Infarction (Heart Attack),
+44,0,2,118,242,0,149,0,0.3,,,Myocardial Infarction (Heart Attack),
+60,0,3,150,240,0,171,0,0.9,,,Myocardial Infarction (Heart Attack),
+44,1,2,120,226,0,169,0,0,,,Myocardial Infarction (Heart Attack),
+42,1,2,130,180,0,150,0,0,,,Myocardial Infarction (Heart Attack),
+66,1,0,160,228,0,138,0,2.3,,,Myocardial Infarction (Heart Attack),
+71,0,0,112,149,0,125,0,1.6,,,Myocardial Infarction (Heart Attack),
+64,1,3,170,227,0,155,0,0.6,,,Myocardial Infarction (Heart Attack),
+66,0,2,146,278,0,152,0,0,,,Myocardial Infarction (Heart Attack),
+39,0,2,138,220,0,152,0,0,,,Myocardial Infarction (Heart Attack),
+58,0,0,130,197,0,131,0,0.6,,,Myocardial Infarction (Heart Attack),
+47,1,2,130,253,0,179,0,0,,,Myocardial Infarction (Heart Attack),
+35,1,1,122,192,0,174,0,0,,,Myocardial Infarction (Heart Attack),
+58,1,1,125,220,0,144,0,0.4,,,Myocardial Infarction (Heart Attack),
+56,1,1,130,221,0,163,0,0,,,Myocardial Infarction (Heart Attack),
+56,1,1,120,240,0,169,0,0,,,Myocardial Infarction (Heart Attack),
+55,0,1,132,342,0,166,0,1.2,,,Myocardial Infarction (Heart Attack),
+41,1,1,120,157,0,182,0,0,,,Myocardial Infarction (Heart Attack),
+38,1,2,138,175,0,173,0,0,,,Myocardial Infarction (Heart Attack),
+38,1,2,138,175,0,173,0,0,,,Myocardial Infarction (Heart Attack),
+67,1,0,160,286,0,108,1,1.5,,,Myocardial Infarction (Heart Attack),
+67,1,0,120,229,0,129,1,2.6,,,Myocardial Infarction (Heart Attack),
+62,0,0,140,268,0,160,0,3.6,,,Myocardial Infarction (Heart Attack),
+63,1,0,130,254,0,147,0,1.4,,,Myocardial Infarction (Heart Attack),
+53,1,0,140,203,1,155,1,3.1,,,Myocardial Infarction (Heart Attack),
+56,1,2,130,256,1,142,1,0.6,,,Myocardial Infarction (Heart Attack),
+48,1,1,110,229,0,168,0,1,,,Myocardial Infarction (Heart Attack),
+58,1,1,120,284,0,160,0,1.8,,,Myocardial Infarction (Heart Attack),
+58,1,2,132,224,0,173,0,3.2,,,Myocardial Infarction (Heart Attack),
+60,1,0,130,206,0,132,1,2.4,,,Myocardial Infarction (Heart Attack),
+40,1,0,110,167,0,114,1,2,,,Myocardial Infarction (Heart Attack),
+60,1,0,117,230,1,160,1,1.4,,,Myocardial Infarction (Heart Attack),
+64,1,2,140,335,0,158,0,0,,,Myocardial Infarction (Heart Attack),
+43,1,0,120,177,0,120,1,2.5,,,Myocardial Infarction (Heart Attack),
+57,1,0,150,276,0,112,1,0.6,,,Myocardial Infarction (Heart Attack),
+55,1,0,132,353,0,132,1,1.2,,,Myocardial Infarction (Heart Attack),
+65,0,0,150,225,0,114,0,1,,,Myocardial Infarction (Heart Attack),
+61,0,0,130,330,0,169,0,0,,,Myocardial Infarction (Heart Attack),
+58,1,2,112,230,0,165,0,2.5,,,Myocardial Infarction (Heart Attack),
+50,1,0,150,243,0,128,0,2.6,,,Myocardial Infarction (Heart Attack),
+44,1,0,112,290,0,153,0,0,,,Myocardial Infarction (Heart Attack),
+60,1,0,130,253,0,144,1,1.4,,,Myocardial Infarction (Heart Attack),
+54,1,0,124,266,0,109,1,2.2,,,Myocardial Infarction (Heart Attack),
+50,1,2,140,233,0,163,0,0.6,,,Myocardial Infarction (Heart Attack),
+41,1,0,110,172,0,158,0,0,,,Myocardial Infarction (Heart Attack),
+51,0,0,130,305,0,142,1,1.2,,,Myocardial Infarction (Heart Attack),
+58,1,0,128,216,0,131,1,2.2,,,Myocardial Infarction (Heart Attack),
+54,1,0,120,188,0,113,0,1.4,,,Myocardial Infarction (Heart Attack),
+60,1,0,145,282,0,142,1,2.8,,,Myocardial Infarction (Heart Attack),
+60,1,2,140,185,0,155,0,3,,,Myocardial Infarction (Heart Attack),
+59,1,0,170,326,0,140,1,3.4,,,Myocardial Infarction (Heart Attack),
+46,1,2,150,231,0,147,0,3.6,,,Myocardial Infarction (Heart Attack),
+67,1,0,125,254,1,163,0,0.2,,,Myocardial Infarction (Heart Attack),
+62,1,0,120,267,0,99,1,1.8,,,Myocardial Infarction (Heart Attack),
+65,1,0,110,248,0,158,0,0.6,,,Myocardial Infarction (Heart Attack),
+44,1,0,110,197,0,177,0,0,,,Myocardial Infarction (Heart Attack),
+60,1,0,125,258,0,141,1,2.8,,,Myocardial Infarction (Heart Attack),
+58,1,0,150,270,0,111,1,0.8,,,Myocardial Infarction (Heart Attack),
+68,1,2,180,274,1,150,1,1.6,,,Myocardial Infarction (Heart Attack),
+62,0,0,160,164,0,145,0,6.2,,,Myocardial Infarction (Heart Attack),
+52,1,0,128,255,0,161,1,0,,,Myocardial Infarction (Heart Attack),
+59,1,0,110,239,0,142,1,1.2,,,Myocardial Infarction (Heart Attack),
+60,0,0,150,258,0,157,0,2.6,,,Myocardial Infarction (Heart Attack),
+49,1,2,120,188,0,139,0,2,,,Myocardial Infarction (Heart Attack),
+59,1,0,140,177,0,162,1,0,,,Myocardial Infarction (Heart Attack),
+57,1,2,128,229,0,150,0,0.4,,,Myocardial Infarction (Heart Attack),
+61,1,0,120,260,0,140,1,3.6,,,Myocardial Infarction (Heart Attack),
+39,1,0,118,219,0,140,0,1.2,,,Myocardial Infarction (Heart Attack),
+61,0,0,145,307,0,146,1,1,,,Myocardial Infarction (Heart Attack),
+56,1,0,125,249,1,144,1,1.2,,,Myocardial Infarction (Heart Attack),
+43,0,0,132,341,1,136,1,3,,,Myocardial Infarction (Heart Attack),
+62,0,2,130,263,0,97,0,1.2,,,Myocardial Infarction (Heart Attack),
+63,1,0,130,330,1,132,1,1.8,,,Myocardial Infarction (Heart Attack),
+65,1,0,135,254,0,127,0,2.8,,,Myocardial Infarction (Heart Attack),
+48,1,0,130,256,1,150,1,0,,,Myocardial Infarction (Heart Attack),
+63,0,0,150,407,0,154,0,4,,,Myocardial Infarction (Heart Attack),
+55,1,0,140,217,0,111,1,5.6,,,Myocardial Infarction (Heart Attack),
+65,1,3,138,282,1,174,0,1.4,,,Myocardial Infarction (Heart Attack),
+56,0,0,200,288,1,133,1,4,,,Myocardial Infarction (Heart Attack),
+54,1,0,110,239,0,126,1,2.8,,,Myocardial Infarction (Heart Attack),
+70,1,0,145,174,0,125,1,2.6,,,Myocardial Infarction (Heart Attack),
+62,1,1,120,281,0,103,0,1.4,,,Myocardial Infarction (Heart Attack),
+35,1,0,120,198,0,130,1,1.6,,,Myocardial Infarction (Heart Attack),
+59,1,3,170,288,0,159,0,0.2,,,Myocardial Infarction (Heart Attack),
+64,1,2,125,309,0,131,1,1.8,,,Myocardial Infarction (Heart Attack),
+47,1,2,108,243,0,152,0,0,,,Myocardial Infarction (Heart Attack),
+57,1,0,165,289,1,124,0,1,,,Myocardial Infarction (Heart Attack),
+55,1,0,160,289,0,145,1,0.8,,,Myocardial Infarction (Heart Attack),
+64,1,0,120,246,0,96,1,2.2,,,Myocardial Infarction (Heart Attack),
+70,1,0,130,322,0,109,0,2.4,,,Myocardial Infarction (Heart Attack),
+51,1,0,140,299,0,173,1,1.6,,,Myocardial Infarction (Heart Attack),
+58,1,0,125,300,0,171,0,0,,,Myocardial Infarction (Heart Attack),
+60,1,0,140,293,0,170,0,1.2,,,Myocardial Infarction (Heart Attack),
+77,1,0,125,304,0,162,1,0,,,Myocardial Infarction (Heart Attack),
+35,1,0,126,282,0,156,1,0,,,Myocardial Infarction (Heart Attack),
+70,1,2,160,269,0,112,1,2.9,,,Myocardial Infarction (Heart Attack),
+59,0,0,174,249,0,143,1,0,,,Myocardial Infarction (Heart Attack),
+64,1,0,145,212,0,132,0,2,,,Myocardial Infarction (Heart Attack),
+57,1,0,152,274,0,88,1,1.2,,,Myocardial Infarction (Heart Attack),
+56,1,0,132,184,0,105,1,2.1,,,Myocardial Infarction (Heart Attack),
+48,1,0,124,274,0,166,0,0.5,,,Myocardial Infarction (Heart Attack),
+56,0,0,134,409,0,150,1,1.9,,,Myocardial Infarction (Heart Attack),
+66,1,1,160,246,0,120,1,0,,,Myocardial Infarction (Heart Attack),
+54,1,1,192,283,0,195,0,0,,,Myocardial Infarction (Heart Attack),
+69,1,2,140,254,0,146,0,2,,,Myocardial Infarction (Heart Attack),
+51,1,0,140,298,0,122,1,4.2,,,Myocardial Infarction (Heart Attack),
+43,1,0,132,247,1,143,1,0.1,,,Myocardial Infarction (Heart Attack),
+62,0,0,138,294,1,106,0,1.9,,,Myocardial Infarction (Heart Attack),
+67,1,0,100,299,0,125,1,0.9,,,Myocardial Infarction (Heart Attack),
+59,1,3,160,273,0,125,0,0,,,Myocardial Infarction (Heart Attack),
+45,1,0,142,309,0,147,1,0,,,Myocardial Infarction (Heart Attack),
+58,1,0,128,259,0,130,1,3,,,Myocardial Infarction (Heart Attack),
+50,1,0,144,200,0,126,1,0.9,,,Myocardial Infarction (Heart Attack),
+62,0,0,150,244,0,154,1,1.4,,,Myocardial Infarction (Heart Attack),
+38,1,3,120,231,0,182,1,3.8,,,Myocardial Infarction (Heart Attack),
+66,0,0,178,228,1,165,1,1,,,Myocardial Infarction (Heart Attack),
+52,1,0,112,230,0,160,0,0,,,Myocardial Infarction (Heart Attack),
+53,1,0,123,282,0,95,1,2,,,Myocardial Infarction (Heart Attack),
+63,0,0,108,269,0,169,1,1.8,,,Myocardial Infarction (Heart Attack),
+54,1,0,110,206,0,108,1,0,,,Myocardial Infarction (Heart Attack),
+66,1,0,112,212,0,132,1,0.1,,,Myocardial Infarction (Heart Attack),
+55,0,0,180,327,0,117,1,3.4,,,Myocardial Infarction (Heart Attack),
+49,1,2,118,149,0,126,0,0.8,,,Myocardial Infarction (Heart Attack),
+54,1,0,122,286,0,116,1,3.2,,,Myocardial Infarction (Heart Attack),
+56,1,0,130,283,1,103,1,1.6,,,Myocardial Infarction (Heart Attack),
+46,1,0,120,249,0,144,0,0.8,,,Myocardial Infarction (Heart Attack),
+61,1,3,134,234,0,145,0,2.6,,,Myocardial Infarction (Heart Attack),
+67,1,0,120,237,0,71,0,1,,,Myocardial Infarction (Heart Attack),
+58,1,0,100,234,0,156,0,0.1,,,Myocardial Infarction (Heart Attack),
+47,1,0,110,275,0,118,1,1,,,Myocardial Infarction (Heart Attack),
+52,1,0,125,212,0,168,0,1,,,Myocardial Infarction (Heart Attack),
+58,1,0,146,218,0,105,0,2,,,Myocardial Infarction (Heart Attack),
+57,1,1,124,261,0,141,0,0.3,,,Myocardial Infarction (Heart Attack),
+58,0,1,136,319,1,152,0,0,,,Myocardial Infarction (Heart Attack),
+61,1,0,138,166,0,125,1,3.6,,,Myocardial Infarction (Heart Attack),
+42,1,0,136,315,0,125,1,1.8,,,Myocardial Infarction (Heart Attack),
+52,1,0,128,204,1,156,1,1,,,Myocardial Infarction (Heart Attack),
+59,1,2,126,218,1,134,0,2.2,,,Myocardial Infarction (Heart Attack),
+40,1,0,152,223,0,181,0,0,,,Myocardial Infarction (Heart Attack),
+61,1,0,140,207,0,138,1,1.9,,,Myocardial Infarction (Heart Attack),
+46,1,0,140,311,0,120,1,1.8,,,Myocardial Infarction (Heart Attack),
+59,1,3,134,204,0,162,0,0.8,,,Myocardial Infarction (Heart Attack),
+57,1,1,154,232,0,164,0,0,,,Myocardial Infarction (Heart Attack),
+57,1,0,110,335,0,143,1,3,,,Myocardial Infarction (Heart Attack),
+55,0,0,128,205,0,130,1,2,,,Myocardial Infarction (Heart Attack),
+61,1,0,148,203,0,161,0,0,,,Myocardial Infarction (Heart Attack),
+58,1,0,114,318,0,140,0,4.4,,,Myocardial Infarction (Heart Attack),
+58,0,0,170,225,1,146,1,2.8,,,Myocardial Infarction (Heart Attack),
+67,1,2,152,212,0,150,0,0.8,,,Myocardial Infarction (Heart Attack),
+44,1,0,120,169,0,144,1,2.8,,,Myocardial Infarction (Heart Attack),
+63,1,0,140,187,0,144,1,4,,,Myocardial Infarction (Heart Attack),
+63,0,0,124,197,0,136,1,0,,,Myocardial Infarction (Heart Attack),
+59,1,0,164,176,1,90,0,1,,,Myocardial Infarction (Heart Attack),
+57,0,0,140,241,0,123,1,0.2,,,Myocardial Infarction (Heart Attack),
+45,1,3,110,264,0,132,0,1.2,,,Myocardial Infarction (Heart Attack),
+68,1,0,144,193,1,141,0,3.4,,,Myocardial Infarction (Heart Attack),
+57,1,0,130,131,0,115,1,1.2,,,Myocardial Infarction (Heart Attack),
+57,0,1,130,236,0,174,0,0,,,Myocardial Infarction (Heart Attack),
